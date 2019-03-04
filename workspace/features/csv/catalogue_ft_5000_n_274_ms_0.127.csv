@@ -1,0 +1,176 @@
+file_name,name,details,type,file_descriptor,context,missing,total,proportion
+KB,kb001,Form date,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb010,Health of child in 1st months,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4036.0,15445.0,0.2613143412107478
+KB,kb011,Health of child in past month,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4036.0,15445.0,0.2613143412107478
+KB,kb066,CH admitted to HOSP,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4002.0,15445.0,0.25911298154742635
+KB,kb067,NO of HOSP admissons,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4107.0,15445.0,0.2659112981547426
+KB,kb372,No times per week child has alcohol,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4058.0,15445.0,0.2627387504046617
+KB,kb589,Other CHDR in HHOLD,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4054.0,15445.0,0.2624797669148592
+KB,kb590,NO of other boys,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4060.0,15445.0,0.26286824214956295
+KB,kb591,NO of other girls,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4060.0,15445.0,0.26286824214956295
+KB,kb592,No. of other children,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,4060.0,15445.0,0.26286824214956295
+KB,kb610,CH has twin,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3978.0,15445.0,0.2575590806086112
+KB,kb871,Questionnaire completed by MUM,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb872,Questionnaire completed by PTNR,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb873,Questionnaire completed by other person,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb874,DD of completing questionnaire,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb875,Date questionnaire completed - month,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb876,Date questionnaire completed - year,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb879a,Age of child at completion (months),Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb879b,Age of child at completion (weeks),Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KB,kb899,Completed with aid of interviewer,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,3973.0,15445.0,0.25723535124635805
+KC,kc001,Form date,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4386.0,15445.0,0.28397539656846876
+KC,kc360,Passive smoke exposure - weekday,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4537.0,15445.0,0.2937520233085141
+KC,kc361,Passive smoke exposure - weekend,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4549.0,15445.0,0.29452897377792164
+KC,kc362,Never exposed to passive smoke,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4384.0,15445.0,0.2838459048235675
+KC,kc363,Degree of weekly exposure to smoke,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4446.0,15445.0,0.28786014891550665
+KC,kc527,CH had alcohol since 6MTHS old,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4579.0,15445.0,0.2964713499514406
+KC,kc815,FREQ CH imitates words,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4447.0,15445.0,0.28792489478795724
+KC,kc816,FREQ CH names things,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4591.0,15445.0,0.29724830042084815
+KC,kc995a,Questionnaire by MUM,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4777.0,15445.0,0.3092910326966656
+KC,kc995b,Questionnaire by DAD,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4777.0,15445.0,0.3092910326966656
+KC,kc995c,Questionnaire by other,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4777.0,15445.0,0.3092910326966656
+KC,kc996,Date of completing questionnaire-MTH,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4419.0,15445.0,0.2861120103593396
+KC,kc996a,Date of completing questionnaire-YRS,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4447.0,15445.0,0.28792489478795724
+KC,kc997,Age in months at completion,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4394.0,15445.0,0.2844933635480738
+KC,kc999,Q'aire completed with aid of interviewer,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,4384.0,15445.0,0.2838459048235675
+KD,kd001,Form date,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd010,Childs Health in Past Month,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4718.0,15445.0,0.30547102622207833
+KD,kd011,Childs Health in Past Year,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4432.0,15445.0,0.2869537067011978
+KD,kd057,Child hospitalized since 6 Months Old,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4385.0,15445.0,0.2839106506960181
+KD,kd058,NO of Times Child Hospitalized,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4397.0,15445.0,0.2846876011654257
+KD,kd307,CH Repeatedly Rocks Head or Body,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4448.0,15445.0,0.2879896406604079
+KD,kd307a,Ch repeatedly rocks head or body (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4448.0,15445.0,0.2879896406604079
+KD,kd308,CH Has Tick or Twitch,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4448.0,15445.0,0.2879896406604079
+KD,kd308a,Ch has tick or twitch (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4448.0,15445.0,0.2879896406604079
+KD,kd309,CH Has Other Unusual Behaviour,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4537.0,15445.0,0.2937520233085141
+KD,kd309a,Ch has other unusual behaviour (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4448.0,15445.0,0.2879896406604079
+KD,kd430,Other Kids in House,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4402.0,15445.0,0.28501133052767885
+KD,kd431,Older Children Living With CH,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4410.0,15445.0,0.2855292975072839
+KD,kd432,NO of Older Brothers,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4422.0,15445.0,0.28630624797669146
+KD,kd433,NO of Older Sisters,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4426.0,15445.0,0.286565231466494
+KD,kd434,No. of older siblings,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4427.0,15445.0,0.28662997733894463
+KD,kd440,CH Has Twin or Triplet,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4446.0,15445.0,0.28786014891550665
+KD,kd451,NO of Younger Brothers,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4495.0,15445.0,0.29103269666558756
+KD,kd452,NO of Younger Sisters,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4495.0,15445.0,0.29103269666558756
+KD,kd453,No. of younger siblings,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4495.0,15445.0,0.29103269666558756
+KD,kd504a,CH Physically Hurt by Person > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4382.0,15445.0,0.28371641307866624
+KD,kd504b,Ch physically hurt by someone (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd505a,CH Sexually Abused > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4375.0,15445.0,0.28326319197151184
+KD,kd505b,Ch sexually abused (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd506a,CH Separated 1+ WK From MUM > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4375.0,15445.0,0.28326319197151184
+KD,kd506b,Ch separated from mum for > a wk (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd507a,CH Separated 1+ WK From DAD > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4438.0,15445.0,0.2873421819359016
+KD,kd507b,Ch separated from dad for > a wk (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd508a,CH Acquired New Parent > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4385.0,15445.0,0.2839106506960181
+KD,kd508b,Ch acquired a new parent (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd509a,CH Had New SIB > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4386.0,15445.0,0.28397539656846876
+KD,kd509b,Ch had a new sibling (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd510a,CH Admitted to HOSP > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4387.0,15445.0,0.2840401424409194
+KD,kd510b,Ch admitted to hospital (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd511a,Change of Care Giver > CH 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4396.0,15445.0,0.2846228552929751
+KD,kd511b,Ch changed carer (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd512a,CH Separated From Someone Else > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4412.0,15445.0,0.2856587892521852
+KD,kd512b,Ch separated from someone else (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd513a,CH Started Creche > 6 MTHS,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4408.0,15445.0,0.28539980576238266
+KD,kd513b,Ch started nursery (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd514b,Ch had other upsetting event (adj),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd700,MUM Worried About CH Speech Development,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd701,MUM Worried About CH Weight Development,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd702,MUM Worried About CH Height Development,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd703,MUM Worried About CH Behavior Develpmnt,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd704,MUM Worried About CH General Development,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd705,Worries over development,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KD,kd980,Questionnaire Completed by MUM,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4464.0,15445.0,0.289025574619618
+KD,kd981,Questionnaire Completed by DAD,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4464.0,15445.0,0.289025574619618
+KD,kd982,Questionnaire Completed by other,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4464.0,15445.0,0.289025574619618
+KD,kd990,Age at completion (months),Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4340.0,15445.0,0.28099708643573973
+KD,kd991,Date Questionnaire Completed - Month,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4342.0,15445.0,0.28112657818064096
+KD,kd992,Date Questionnaire Completed - Year,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4414.0,15445.0,0.2857882809970864
+KD,kd995,Month of birth,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4378.0,15445.0,0.2834574295888637
+KD,kd999,Questionnaire competed with aid of interviewer,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,4331.0,15445.0,0.28041437358368404
+KN,kn0007,Questionnaire completed (as of 31/12/05),Child Based Q variable names,KN Files,KN Files. Questionnaire: My School Boy/Girl. Completed by: Mother. At: 69 months,4189.0,15445.0,0.2712204596956944
+KP,kp0007,Questionnaire completed (as of 31/12/00),Child Based Q variable names,KP Files,KP Files. Questionnaire: My Daughter/Son Growing Up. Completed by: Mother. At: 78 months,4551.0,15445.0,0.29465846552282293
+KS,ks0007,Questionnaire completed (as of 31/07/02),Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,4022.0,15445.0,0.26040789899643896
+KS,ks0007a,Data available (as of 31/07/02),Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,330.0,15445.0,0.02136613790870832
+KU,ku007,Questionnaire completed (as of 30/09/03),Child Based Q variable names,KU Files,KU Files. Questionnaire: Your Son/Daughter at 9. Completed by: Mother. At: 9 years,4305.0,15445.0,0.2787309808999676
+KV,kv0007,Questionnaire completed (as of 31/08/07),Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,4545.0,15445.0,0.2942699902881191
+KV,kv0007a,Data available (as of 31/08/07),Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,313.0,15445.0,0.020265458077047587
+KW,kw0007,Questionnaire completed (as of 31/05/06),Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,4677.0,15445.0,0.30281644545160247
+KW,kw0007a,Data available (as of 31/05/06),Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,316.0,15445.0,0.020459695694399482
+TA,ta0007,Questionnaire completed (as of 31/05/08),Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,4854.0,15445.0,0.3142764648753642
+TA,ta0007a,Data available (as of 31/05/08),Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,317.0,15445.0,0.020524441566850113
+TB,tb0007a,Data available (as of 31/05/08),Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,330.0,15445.0,0.02136613790870832
+TC,tc0007a,Data available (as of 05/03/10),Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,363.0,15445.0,0.02350275169957915
+CCXD,CCXD900,Q18a: YP felt miserable or unhappy in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD901,Q18b: YP has been having fun in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD902,Q18c: YP did not enjoy anything at all in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD903,Q18d: YP felt so tired that they just sat around and did nothing in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD904,Q18e: YP was very restless in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD905,Q18f: YP felt they were no good any more in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD906,Q18g: YP cried a lot in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD907,Q18h: YP felt happy in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD908,Q18i: YP found it hard to think properly or concentrate in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD909,Q18j: YP hated themselves in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD910,Q18k: YP enjoyed doing lots of things in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD911,Q18l: YP felt they were a bad person in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD912,Q18m: YP felt lonely in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD913,Q18n: YP thought nobody really loved them in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD914,Q18o: YP thought they could never be as good as other kids in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD915,Q18p: YP felt they did everything wrong in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD916,Q18q: YP has had a good time in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+D,d152,Had bulimia,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d167,Had drug addiction,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d168,Had alcoholism,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d169,Had schizophrenia,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d170,Had anorexia nervosa,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d171,Had severe depression,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d172,Had other psychiatric PROB,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d152a,"Had bulimia, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d167a,"Had drug addiction, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d168a,"Had alcoholism, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d169a,"Had schizophrenia, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d170a,"Had anorexia nervosa, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d171a,"Had severe depression, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d172a,"Had other psychiatric problem, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+F,f020,Had anxiety since CH born,Mother based Q variable names,F Files,F Files. Questionnaire:  Looking after the baby. Completed by: Mother. At: 8 months,4158.0,15445.0,0.2692133376497248
+F,f020a,Had anxiety since birth,Mother based Q variable names,F Files,F Files. Questionnaire:  Looking after the baby. Completed by: Mother. At: 8 months,4158.0,15445.0,0.2692133376497248
+F,f021,Had depression since CH born,Mother based Q variable names,F Files,F Files. Questionnaire:  Looking after the baby. Completed by: Mother. At: 8 months,4158.0,15445.0,0.2692133376497248
+KZ,kz011b,Alive at 1 year,Other files variable names,KZ files,KZ files. Child baseline sample data,7.0,15445.0,0.0004532211071544189
+KZ,kz012,Outcome C-perinatal death(i) FD >27wks,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz013,Outcome D-perinatal death(ii) FD >19wks,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz014,Outcome E - neonatal death.,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz015,Outcome F - infant death.,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz016,Wigglesworth classification,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz017,Death with congenital defect,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz018,Fetal outcome (deaths <28 wks),Other files variable names,KZ files,KZ files. Child baseline sample data,98.0,15445.0,0.006345095500161864
+KZ,kz021,Sex,Other files variable names,KZ files,KZ files. Child baseline sample data,591.0,15445.0,0.038264810618323084
+KZ,bestgest,Gestation at delivery or death,Other files variable names,KZ files,KZ files. Child baseline sample data,832.0,15445.0,0.05386856587892522
+KZ,kz030,Preferred birthweight,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030a,Birthweight provenance,Other files variable names,KZ files,KZ files. Child baseline sample data,1424.0,15445.0,0.09219812236969893
+KZ,kz030b,Birthweight from obst data,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030c,Birthweight from ALSPAC measurers,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030d,Birthweight (from notifications or clinical records).,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+MZ,mz010,Pregnancy size,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz010a,Pregnancy size (summary),Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz013,28-day survivors,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz014,1-year survivors,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz028b,Grouped age of mother at delivery,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,788.0,15445.0,0.051019747491097445
+OA,wt_0wks,Weight at 0 weeks (kg),Other files variable names,OA files,OA files. Data from Obstetric clinical records; abstracted by DA Lawlor,2965.0,15445.0,0.1919715118161217
+Soc_Class_m,b_soc2000_m,B: Standard Occupational Classification 2000 (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4310.0,15445.0,0.2790547102622208
+Soc_Class_m,b_score_m,B: CASCOT accuracy score (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4216.0,15445.0,0.2729685982518614
+Soc_Class_m,b_soc90_m,B: Standard Occupation Classification 1990 (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4310.0,15445.0,0.2790547102622208
+Soc_Class_m,b_empst_m,B: Employment status (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4310.0,15445.0,0.2790547102622208
+Soc_Class_m,b_sc_m,B: Social class based on occupation (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4318.0,15445.0,0.27957267724182583
+Soc_Class_m,b_seg_m,B: Socio economic group (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4318.0,15445.0,0.27957267724182583
+Soc_Class_m,b_mcamsis_m,B: Male CAMSIS score (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4310.0,15445.0,0.2790547102622208
+Soc_Class_m,b_fcamsis_m,B: Female CAMSIS score (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4310.0,15445.0,0.2790547102622208
+Soc_Class_m,b_snssec_m,B: Raw simplified NSSEC (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4318.0,15445.0,0.27957267724182583
+Soc_Class_m,b_snssec_analytical_m,B: Simplified NSSEC analytical classes (mother),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4318.0,15445.0,0.27957267724182583
+Soc_Class_ptnr_pp,c_score_ptnr_pp,C: CASCOT accuracy score (partner proxy),Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,4924.0,15445.0,0.31880867594690837
+SEFG,y6sch,Child's unique school identifier (ALSPSCID) at Year 3 data collection,School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SEFG,y6year,Academic year in which Year 6 data was collected,School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SH,y6sch,Child's unique school identifier (ALSPSCID) at Year 6 data collection,School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SH,y6year,School year in which Year 6 data were collected,School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+GLOBAL,cidB2855,Identifier for each child. Combine with qlet to completely identify a child.,global,GLOBAL,Identifier for each child. Combine with qlet to completely identify a child.,1.0,15445.0,6.474587245063128e-05
+GLOBAL,qlet,Identifies children from multiple births.,global,GLOBAL,Identifies children from multiple births.,0.0,15445.0,0.0

@@ -1,0 +1,29 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,173,0.503,0.587,0.021,0.548,0.84
+Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,15,0.293,0.293,0.284,0.288,0.309
+Child clinic variable names,F11  Files,F11  Files. Clinic: Focus 11+. At:  11+ years,115,0.547,0.548,0.537,0.545,0.832
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,148,0.457,0.545,0.02,0.502,0.84
+Child clinic variable names,F9  Files,F9  Files. Clinic: Focus @ 9. At:   9 years,18,0.502,0.502,0.5,0.501,0.506
+Child clinic variable names,TF3  Files,TF3  Files. Clinic:  Teen Focus 3. At:  15.5 years,13,0.673,0.675,0.644,0.651,0.775
+Child clinic variable names,TF2  Files,TF2  Files. Clinic: Teen Focus 2. At:  13.5 years,8,0.618,0.621,0.603,0.603,0.746
+Child Based Q variable names,KU Files,KU Files. Questionnaire: Your Son/Daughter at 9. Completed by: Mother. At: 9 years,116,0.477,0.478,0.279,0.479,0.533
+Other files variable names,OC files,OC files. Data from Obstetric and neonatal clinical records; abstracted by J Golding,10,0.491,0.491,0.471,0.486,0.518
+Child Based Q variable names,KL Files,KL Files. Questionnaire: Development & health of my Son/Daughter. Completed by: Mother. At: 57 months,129,0.404,0.407,0.384,0.391,0.657
+Child Based Q variable names,KM Files,KM Files. Questionnaire: My 5 year old Son/Daughter. Completed by: Mother. At: 65 months,19,0.422,0.422,0.417,0.421,0.428
+Child Completed Q variable names,CCS Files,CCS Files. Questionnaire:  Life of a 16+ Teenager. Completed by: Child. At:  16 Years,24,0.674,0.674,0.668,0.674,0.679
+Child clinic variable names,F10  Files,F10  Files. Clinic: Focus 10+. At:  10+ years,54,0.515,0.515,0.511,0.514,0.522
+Child clinic variable names,F8  Files,F8  Files. Clinic: Focus @ 8. At:   8 years,283,0.536,0.537,0.516,0.534,0.587
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,106,0.438,0.54,0.021,0.543,0.699
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,202,0.499,0.544,0.273,0.544,0.808
+Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,119,0.436,0.524,0.02,0.527,0.605
+Child Based Q variable names,KP Files,KP Files. Questionnaire: My Daughter/Son Growing Up. Completed by: Mother. At: 78 months,69,0.455,0.459,0.295,0.454,0.744
+Child clinic variable names,TF4  Files,TF4  Files. Clinic:  Teen Focus 4. At:  17.5 years,20,0.698,0.698,0.672,0.705,0.705
+Child Completed Q variable names,CCR Files,CCR Files. Questionnaire:  Life of a Teenager. Completed by: Child. At: 14 Years,21,0.617,0.617,0.61,0.619,0.621
+Child Based Q variable names,KK Files,KK Files. Questionnaire: My Young 4 Year Old Boy/Girl. Completed by: Mother. At: 54 months,76,0.39,0.391,0.371,0.385,0.45
+Child Based Q variable names,KR Files,KR Files. Questionnaire: My Son/Daughter's Well-Being. Completed by: Mother. At: 91 months,344,0.476,0.477,0.466,0.474,0.84
+Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,56,0.287,0.288,0.28,0.284,0.459
+Partner based Q variable names,PQ Files,PQ Files. Questionnaire: Partners - about me. Completed by: Partner. At: 12 years 1 month,8,0.787,0.787,0.784,0.786,0.792
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,78,0.476,0.631,0.024,0.634,0.8
+Child Completed Q variable names,CCU Files,CCU Files. Questionnaire:  It's All About You 20+. Completed by: Child. At:  20+ Years,46,0.729,0.729,0.719,0.729,0.745
+Child clinic variable names,TF1  Files,TF1  Files. Clinic:  Teen Focus 1. At:  12.5 years,3,0.56,0.56,0.558,0.558,0.565
+Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,17,0.205,0.427,0.021,0.465,0.47

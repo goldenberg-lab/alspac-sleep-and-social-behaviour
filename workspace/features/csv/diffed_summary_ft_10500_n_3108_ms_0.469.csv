@@ -1,0 +1,10 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,139,0.466,0.546,0.021,0.547,0.668
+Child clinic variable names,TF4  Files,TF4  Files. Clinic:  Teen Focus 4. At:  17.5 years,4,0.674,0.674,0.672,0.672,0.679
+Child clinic variable names,TF3  Files,TF3  Files. Clinic:  Teen Focus 3. At:  15.5 years,8,0.648,0.649,0.644,0.65,0.651
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,73,0.466,0.625,0.024,0.634,0.676
+Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,17,0.001,0.001,0.001,0.001,0.001
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,116,0.416,0.498,0.02,0.501,0.589
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,141,0.441,0.47,0.273,0.457,0.679
+uncatalogued,DAWBA Bands,DAWBA Bands,22,0.652,0.652,0.651,0.653,0.653
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,105,0.436,0.539,0.021,0.543,0.659

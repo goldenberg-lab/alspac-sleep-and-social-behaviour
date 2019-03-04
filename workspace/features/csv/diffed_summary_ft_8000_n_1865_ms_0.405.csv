@@ -1,0 +1,13 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child clinic variable names,F10  Files,F10  Files. Clinic: Focus 10+. At:  10+ years,47,0.514,0.514,0.511,0.514,0.517
+Child clinic variable names,F8  Files,F8  Files. Clinic: Focus @ 8. At:   8 years,10,0.516,0.516,0.516,0.517,0.517
+School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,167,0.401,0.504,0.022,0.51,0.514
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,2,0.039,0.167,0.021,0.167,0.314
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,91,0.387,0.4,0.273,0.408,0.507
+Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,8,0.125,0.428,0.02,0.516,0.516
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,104,0.406,0.495,0.02,0.501,0.518
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,2,0.04,0.175,0.021,0.175,0.329
+Mother based Q variable names,N Files,N Files. Questionnaire:  Mother and family. Completed by: Mother. At: 8 years 1 month,14,0.493,0.493,0.482,0.489,0.518
+Child Based Q variable names,KL Files,KL Files. Questionnaire: Development & health of my Son/Daughter. Completed by: Mother. At: 57 months,121,0.396,0.397,0.384,0.391,0.472
+Other files variable names,OC files,OC files. Data from Obstetric and neonatal clinical records; abstracted by J Golding,9,0.488,0.488,0.471,0.485,0.516
+Child Based Q variable names,KU Files,KU Files. Questionnaire: Your Son/Daughter at 9. Completed by: Mother. At: 9 years,115,0.476,0.477,0.279,0.479,0.494

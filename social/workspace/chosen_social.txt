@@ -1,0 +1,127 @@
+Questionnaire	Details	Category
+KJ	CH Bullies Other Children	bullies
+KL	F21: Child bullies other children	bullies
+KL1	F63c: Child teases other children	bullies
+KL2	F62c: Child teases brothers and sisters	bullies
+KN	F21: Frequency child bullies other children	bullies
+KQ	C12: CH Fights With/Bullies Other Kids Past 6 Mths	bullies
+KR	L9c: Frequency child has bullied/threatened people in past 12 months	bullies
+KR1	L9c1: Child has been often bullying/threatening people for past 6 months	bullies
+KU	F12: Child often fights with other children or bullies them in past 6 months	bullies
+KV	M9c: In past year child has bullied or threatened people	bullies
+KW	G12: Child has often fought with other children or bullied them in the last six months	bullies
+TA	I12: Teenager often fights or bullies other children/teenagers	bullies
+TB	M9c: Child bullied/threatened people over past 12 months	bullies
+TC	D12: In the past 6 months, study teenager often fights or bullies other children or teenagers	bullies
+KL	F63b: Child is teased by other children	bullied
+KL1	F62b: Child is teased by brothers and sisters	bullied
+KQ	C19: CH Been Bullied In Past 6 Mths	bullied
+KU	F19: Child is picked on or bullied by other children in past 6 months	bullied
+KW	G19: Child has been picked on or bullied by other children in the last six months	bullied
+TA	I19: Teenager is often picked on or bullied by other children	bullied
+TC	D19: In the past 6 months, study teenager is picked on or bullied by other teenagers	bullied
+KJ	CH is Kind to Young Children	kindness
+KQ	C17: CH Kind To Younger Children Past 6 Mths	kindness
+KU	F17: Child is kinder to younger children in past 6 months	kindness
+KW	G17: Child has been kind to younger children in the last six months	kindness
+TC	D17: In the past 6 months, study teenager is kind to younger children	kindness
+KJ	CH Helps Children Feeling Ill	support
+KJ1	CH Comforts Child who is Upset	support
+KJ2	CH wil Help Someone who is Hurt	support
+KL	F48: Frequency child will comfort another child who is upset	support
+KQ	C9: CH Helpful If Someone Hurt Past 6 Mths	support
+KQ1	E4c: CH Feels Sympathy For Others If Hurt	support
+KU	F9: Child is helpful if someone hurt, upset or feeling ill in past 6 months	support
+KW	G9: Child has been helpful if someone is hurt/upset/feeling ill in the last six months	support
+TA	I9: Teenager is helpful if someone is hurt, upset or ill	support
+TC	D9: In the past 6 months, study teenager is helpful if someone is hurt, upset or feeling ill	support
+KQ	C20: CH Often Vol To Help Others Past 6 Mths	helpful
+KU	F20: Child often volunteers to help others in past 6 months	helpful
+KW	G20: Child has often volunteered to help others in the last six months	helpful
+TA	I20: Teenager often volunteers to help others	helpful
+TC	D20: In the past 6 months, study teenager often volunteers to help others (parents, teachers, other teenagers)	helpful
+KJ	Other Children Dislike Child	disliked
+KL	F26: Child is not much liked by other children	disliked
+KN	F26: Frequency child is not much liked by other children	disliked
+KJ	CH gets on With Other Children	liked
+KQ	C14: CH Generally Liked By Other Kids Past 6 Mths	liked
+KU	F14: Child is generally liked by other children in past 6 months	liked
+KW	G14: Child has been generally liked by other children in the last six months	liked
+TA	I14: Teenager is generally liked by other children	liked
+TC	D14: In the past 6 months, study teenager is generally liked by others	liked
+KL	F45: Number of children who choose to play with child	friends
+KQ	C11: CH Had At Least One Good Friend Past 6 Mths	friends
+KW	G11: Child has had at least one good friend in the last six months	friends
+TA	I11: Teenager has at least one good friend	friends
+TB	C4: Frequency child keeps friends	friends
+TC	D11: In the past 6 months, study teenager has at least one good friend	friends
+KJ	CH Shares Treats With Friends	sharing
+KL	F63f: Child is willing to share with other children	sharing
+KL1	F62f: Child is willing to share with brothers and sisters	sharing
+KQ	C4: CH Shared With Other Kids Past 6 Mths	sharing
+KQ1	E4a: Does CH Share Toys With Others	sharing
+KU	F4: Child has shared readily with other children in past 6 months	sharing
+TA	I4: Teenager has shared readily with other children/teenagers	sharing
+TC	D4: In the past 6 months, study teenager has shared readily with other children and teenagers	sharing
+KQ	C1: CH Considerate Others Feelings Past 6 Mths	considerate
+KU	F1: Child has been considerate of other people's feelings in past 6 months	considerate
+TA	I1: Teenager is considerate of other people's feelings	considerate
+TC	D1: In the past 6 months, study teenager has been considerate of other people's feelings	considerate
+KL	F16: Child is something of a loner	solitary
+KN	F16: Frequency child is something of a loner	solitary
+KQ	C6: CH Solitary & Played Alone Past 6 Mths	solitary
+KU	F6: Child is rather solitary, tends to play alone in past 6 months	solitary
+TA	I6: Teenager is rather solitary, tends to play alone	solitary
+TC	D6: In the past 6 months, study teenager is rather solitary, tends to be alone	solitary
+KQ	C23: CH Got On Better With Adults Past 6 Mths	adults
+KU	F23: Child gets on better with adults than with other children in past 6 months	adults
+KW	G23: Child has gets on better with adults than other children in the last six months	adults
+TA	I23: Teenager gets on better with adults than other teenagers	adults
+TC	D23: In the past 6 months, study teenager gets on better with adults than with other teenagers	adults
+KJ	CH is Affectionate to Family Members	affectionate
+KL	F40: Child smiles when child sees their parent(s)	affectionate
+KN	F40: Frequency child smiles when sees parents	affectionate
+KL	F1: Child tends to be shy	shy
+KN	F1: Frequency child tends to be shy	shy
+KL	F3: Child likes to be with people	people
+KN	F3: Frequency child likes to be with people	people
+KL	F18: When alone child feels isolated	isolated
+KN	F18: Frequency child feels isolated when alone	isolated
+KL	F12: Child is very sociable	social
+KN	F12: Frequency child is very sociable	social
+KL	F5: Child prefers playing with others rather than alone	playing
+KN	F5: Frequency child prefers playing with others rather than alone	playing
+KL	F20: Child is very friendly with strangers	strangers
+KN	F20: Frequency child is very friendly with strangers	strangers
+KL	F8: Child makes friends easily	makes_friends
+KN	F8: Frequency child makes friends easily	makes_friends
+KL	F10: Child finds people more stimulating than anything else	loves_people
+KN	F10: Frequency child finds people more stimulating than anything else	loves_people
+KL	F14: Child takes a long time to warm to strangers	shy_of_strangers
+KN	F14: Frequency child takes a long time to warm to strangers	shy_of_strangers
+KJ	CH Tries to Stop Quarrels	stops_fights
+TA	D1d: Teenager's ability to say/do right thing to defuse tense/embarrassing situation, in comparison to others the same age	stops_fights
+KR	M3a: Child was unaware of other people's feelings over past 6 months	unaware_of_feelings
+KV	N3a: In past 6 months child was not aware of others feelings	unaware_of_feelings
+TB	O3a: Frequency child not aware of other people's feelings over last 6 months	unaware_of_feelings
+TC	D39a: Over the last 6 months, study teenager was not aware of other people's feelings	unaware_of_feelings
+KR	M3b: Child did not realise when others were upset/angry over past 6 months	others_upset
+KV	N3b: In past 6 months child did not realise when others were upset	others_upset
+TB	O3b: Frequency child doesn't realise when others upset/angry over last 6 months	others_upset
+TC	D39b: Over the last 6 months, study teenager did not realise when others are upset or angry	others_upset
+KR	M3c: Child did not notice the effect of own behaviour on other family members over past 6 months	behaviour_effect
+KV	N3c: In past 6 months child did not notice the effect of behaviour on family members	behaviour_effect
+TB	O3c: Frequency child doesn't notice effect of their behaviour on other family members over last 6 months	behaviour_effect
+TC	D39c: Over the last 6 months, study teenager did not notice the effect their behaviour has on other members of the family	behaviour_effect
+KR	M3g: Child did not seem to understand social skills over past 6 months	social_skills
+KV	N3g: In past 6 months child did not seem to understand social skills	social_skills
+TB	O3g: Frequency child doesn't seem to understand social skills e.g. interrupts conversations constantly over last 6 months	social_skills
+TC	D39g: Over the last 6 months, study teenager did not seem to understand social skills, e.g. interrupts conversations constantly	social_skills
+KR	M3h: Child did not pick up on body language over past 6 months	body_language
+KV	N3h: In past 6 months child did not pick up on body language	body_language
+TB	O3h: Frequency child doesn't pick up on body language over last 6 months	body_language
+TC	D39h: Over the last 6 months, study teenager did not pick up on body language	body_language
+KR	M3j: Child did not realise people were offended by own behaviour over past 6 months	offended
+KV	N3j: In past 6 months child did not understand when child was offending people	offended
+TB	O3j: Frequency child doesn't realise they offend other people with their behaviour over last 6 months	offended
+TC	D39j: Over the last 6 months, study teenager did not realise that they offend people with their behaviour	offended

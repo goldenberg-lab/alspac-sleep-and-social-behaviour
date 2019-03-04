@@ -1,0 +1,65 @@
+file_name,name,details,type,file_descriptor,context,missing,total,proportion
+KS,ks0007a,Data available (as of 31/07/02),Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,330.0,15445.0,0.02136613790870832
+KV,kv0007a,Data available (as of 31/08/07),Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,313.0,15445.0,0.020265458077047587
+KW,kw0007a,Data available (as of 31/05/06),Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,316.0,15445.0,0.020459695694399482
+TA,ta0007a,Data available (as of 31/05/08),Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,317.0,15445.0,0.020524441566850113
+TB,tb0007a,Data available (as of 31/05/08),Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,330.0,15445.0,0.02136613790870832
+TC,tc0007a,Data available (as of 05/03/10),Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,363.0,15445.0,0.02350275169957915
+CCXD,CCXD900,Q18a: YP felt miserable or unhappy in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD901,Q18b: YP has been having fun in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD902,Q18c: YP did not enjoy anything at all in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD903,Q18d: YP felt so tired that they just sat around and did nothing in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD904,Q18e: YP was very restless in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD905,Q18f: YP felt they were no good any more in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD906,Q18g: YP cried a lot in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD907,Q18h: YP felt happy in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD908,Q18i: YP found it hard to think properly or concentrate in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD909,Q18j: YP hated themselves in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD910,Q18k: YP enjoyed doing lots of things in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD911,Q18l: YP felt they were a bad person in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD912,Q18m: YP felt lonely in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD913,Q18n: YP thought nobody really loved them in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD914,Q18o: YP thought they could never be as good as other kids in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD915,Q18p: YP felt they did everything wrong in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+CCXD,CCXD916,Q18q: YP has had a good time in the past 2 weeks,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,22.0,15445.0,0.001424409193913888
+D,d152,Had bulimia,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d167,Had drug addiction,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d168,Had alcoholism,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d169,Had schizophrenia,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d170,Had anorexia nervosa,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d171,Had severe depression,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d172,Had other psychiatric PROB,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d152a,"Had bulimia, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d167a,"Had drug addiction, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d168a,"Had alcoholism, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d169a,"Had schizophrenia, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d170a,"Had anorexia nervosa, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d171a,"Had severe depression, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+D,d172a,"Had other psychiatric problem, Y/N",Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,2841.0,15445.0,0.18394302363224344
+KZ,kz011b,Alive at 1 year,Other files variable names,KZ files,KZ files. Child baseline sample data,7.0,15445.0,0.0004532211071544189
+KZ,kz012,Outcome C-perinatal death(i) FD >27wks,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz013,Outcome D-perinatal death(ii) FD >19wks,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz014,Outcome E - neonatal death.,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz015,Outcome F - infant death.,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz016,Wigglesworth classification,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz017,Death with congenital defect,Other files variable names,KZ files,KZ files. Child baseline sample data,80.0,15445.0,0.005179669796050502
+KZ,kz018,Fetal outcome (deaths <28 wks),Other files variable names,KZ files,KZ files. Child baseline sample data,98.0,15445.0,0.006345095500161864
+KZ,kz021,Sex,Other files variable names,KZ files,KZ files. Child baseline sample data,591.0,15445.0,0.038264810618323084
+KZ,bestgest,Gestation at delivery or death,Other files variable names,KZ files,KZ files. Child baseline sample data,832.0,15445.0,0.05386856587892522
+KZ,kz030,Preferred birthweight,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030a,Birthweight provenance,Other files variable names,KZ files,KZ files. Child baseline sample data,1424.0,15445.0,0.09219812236969893
+KZ,kz030b,Birthweight from obst data,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030c,Birthweight from ALSPAC measurers,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+KZ,kz030d,Birthweight (from notifications or clinical records).,Other files variable names,KZ files,KZ files. Child baseline sample data,788.0,15445.0,0.051019747491097445
+MZ,mz010,Pregnancy size,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz010a,Pregnancy size (summary),Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz013,28-day survivors,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz014,1-year survivors,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,80.0,15445.0,0.005179669796050502
+MZ,mz028b,Grouped age of mother at delivery,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,788.0,15445.0,0.051019747491097445
+OA,wt_0wks,Weight at 0 weeks (kg),Other files variable names,OA files,OA files. Data from Obstetric clinical records; abstracted by DA Lawlor,2965.0,15445.0,0.1919715118161217
+SEFG,y6sch,Child's unique school identifier (ALSPSCID) at Year 3 data collection,School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SEFG,y6year,Academic year in which Year 6 data was collected,School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SH,y6sch,Child's unique school identifier (ALSPSCID) at Year 6 data collection,School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+SH,y6year,School year in which Year 6 data were collected,School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,333.0,15445.0,0.021560375526060212
+GLOBAL,cidB2855,Identifier for each child. Combine with qlet to completely identify a child.,global,GLOBAL,Identifier for each child. Combine with qlet to completely identify a child.,1.0,15445.0,6.474587245063128e-05
+GLOBAL,qlet,Identifies children from multiple births.,global,GLOBAL,Identifies children from multiple births.,0.0,15445.0,0.0

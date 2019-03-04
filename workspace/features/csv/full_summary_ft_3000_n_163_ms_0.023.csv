@@ -1,0 +1,16 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,1,0.021,0.021,0.021,0.021,0.021
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,1,0.02,0.02,0.02,0.02,0.02
+Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,1,0.02,0.02,0.02,0.02,0.02
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,1,0.021,0.021,0.021,0.021,0.021
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,1,0.021,0.021,0.021,0.021,0.021
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,1,0.024,0.024,0.024,0.024,0.024
+Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,17,0.001,0.001,0.001,0.001,0.001
+Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,14,0.184,0.184,0.184,0.184,0.184
+Other files variable names,KZ files,KZ files. Child baseline sample data,15,0.004,0.028,0.0,0.006,0.092
+Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,5,0.006,0.014,0.005,0.005,0.051
+Other files variable names,OA files,OA files. Data from Obstetric clinical records; abstracted by DA Lawlor,1,0.192,0.192,0.192,0.192,0.192
+School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,2,0.022,0.022,0.022,0.022,0.022
+School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,2,0.022,0.022,0.022,0.022,0.022
+global,GLOBAL,Identifier for each child. Combine with qlet to completely identify a child.,1,0.0,0.0,0.0,0.0,0.0
+global,GLOBAL,Identifies children from multiple births.,1,0.0,0.0,0.0,0.0,0.0

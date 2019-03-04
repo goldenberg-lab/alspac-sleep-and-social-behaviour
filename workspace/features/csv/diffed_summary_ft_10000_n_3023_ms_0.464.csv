@@ -1,0 +1,8 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,KL Files,KL Files. Questionnaire: Development & health of my Son/Daughter. Completed by: Mother. At: 57 months,128,0.402,0.405,0.384,0.391,0.611
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,104,0.435,0.537,0.021,0.542,0.607
+Child Based Q variable names,KN Files,KN Files. Questionnaire: My School Boy/Girl. Completed by: Mother. At: 69 months,99,0.444,0.446,0.271,0.443,0.63
+Child clinic variable names,TF3  Files,TF3  Files. Clinic:  Teen Focus 3. At:  15.5 years,2,0.644,0.644,0.644,0.644,0.644
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,129,0.428,0.451,0.273,0.426,0.623
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,66,0.451,0.621,0.024,0.634,0.646
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,138,0.465,0.545,0.021,0.547,0.614

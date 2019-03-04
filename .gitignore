@@ -1,0 +1,8 @@
+ref_plots/*
+plots/*
+*.sav
+*.Rdata
+*.pyc 
+*.pyo
+.idea
+.idea/*

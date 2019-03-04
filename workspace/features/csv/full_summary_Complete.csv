@@ -1,0 +1,168 @@
+file_name,type,file_descriptor,context
+Ch_Metab,Biological samples variable names,Child Metabolomics File,Child Metabolomics File
+CHILD_METABOLOMICS,Biological samples variable names,Child Metabolomics File,Child Metabolomics File
+Child_bloods,Biological samples variable names,Child biological samples File,Child biological samples File
+Father_samples,Biological samples variable names,Father biological samples File,Father biological samples File
+M_Sam,Biological samples variable names,Mother biological samples File,Mother biological samples File
+father_metabolomics,Biological samples variable names,Mother metabolomics File,Mother metabolomics File
+mum_metabolomics,Biological samples variable names,Mother metabolomics File,Mother metabolomics File
+KA,Child Based Q variable names,KA Files,KA Files. Questionnaire: My Young Baby Boy/Girl. Completed by: Mother. At: 4 weeks
+KB,Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months
+KC,Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months
+KD,Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months
+KE,Child Based Q variable names,KE Files,KE Files. Questionnaire: My Little Boy/Girl. Completed by: Mother. At: 24 months
+KF,Child Based Q variable names,KF Files,KF Files. Questionnaire: My Little Study Daughter/Son. Completed by: Mother. At: 30 months
+,Child Based Q variable names,KF Files,KF Files. Questionnaire: My Little Study Daughter/Son. Completed by: Mother. At: 30 months
+KG,Child Based Q variable names,KG Files,KG Files. Questionnaire: My 3 year old Boy/Girl. Completed by: Mother. At: 38 months
+KGnut,Child Based Q variable names,KG Files,KG Files. Questionnaire: My 3 year old Boy/Girl. Completed by: Mother. At: 38 months
+KJ,Child Based Q variable names,KJ Files,KJ Files. Questionnaire: My Son's/Daughter's Health & Behaviour. Completed by: Mother. At: 42 months
+KK,Child Based Q variable names,KK Files,KK Files. Questionnaire: My Young 4 Year Old Boy/Girl. Completed by: Mother. At: 54 months
+KKnut,Child Based Q variable names,KK Files,KK Files. Questionnaire: My Young 4 Year Old Boy/Girl. Completed by: Mother. At: 54 months
+KL,Child Based Q variable names,KL Files,KL Files. Questionnaire: Development & health of my Son/Daughter. Completed by: Mother. At: 57 months
+KM,Child Based Q variable names,KM Files,KM Files. Questionnaire: My 5 year old Son/Daughter. Completed by: Mother. At: 65 months
+KN,Child Based Q variable names,KN Files,KN Files. Questionnaire: My School Boy/Girl. Completed by: Mother. At: 69 months
+KP,Child Based Q variable names,KP Files,KP Files. Questionnaire: My Daughter/Son Growing Up. Completed by: Mother. At: 78 months
+KQ,Child Based Q variable names,KQ Files,KQ Files. Questionnaire: My Son/Daughter at School. Completed by: Mother. At: 81 months
+KR,Child Based Q variable names,KR Files,KR Files. Questionnaire: My Son/Daughter's Well-Being. Completed by: Mother. At: 91 months
+,Child Based Q variable names,KR Files,KR Files. Questionnaire: My Son/Daughter's Well-Being. Completed by: Mother. At: 91 months
+KS,Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months
+KT,Child Based Q variable names,KT Files,KT Files. Questionnaire: My Son/Daughter at Home & at School. Completed by: Mother. At: 103 months
+KTnut,Child Based Q variable names,KT Files,KT Files. Questionnaire: My Son/Daughter at Home & at School. Completed by: Mother. At: 103 months
+KU,Child Based Q variable names,KU Files,KU Files. Questionnaire: Your Son/Daughter at 9. Completed by: Mother. At: 9 years
+KV,Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years
+KW,Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years
+PUB1,Child Based Q variable names,Puberty1 Files,Puberty1 Files. Questionnaire: Growing and Changing. Completed by: Mother/child. At: 8 years 1 month
+PUB2,Child Based Q variable names,Puberty2 Files,Puberty2 Files. Questionnaire: Growing and Changing 2. Completed by: Mother/child. At: 9 years 7 months
+PUB3,Child Based Q variable names,Puberty3 Files,Puberty3 Files. Questionnaire: Growing and Changing 3. Completed by: Mother/child. At: 10 years 8 months
+PUB4,Child Based Q variable names,Puberty4 Files,Puberty4 Files. Questionnaire: Growing and Changing 4. Completed by: Mother/child. At: 11 years 8 months
+PUB5,Child Based Q variable names,Puberty5 Files,Puberty5 Files. Questionnaire: Growing and Changing 5. Completed by: Mother/child. At: 13 years 1 month
+PUB6,Child Based Q variable names,Puberty6 Files,Puberty6 Files. Questionnaire: Growing and Changing 6. Completed by: Mother/child. At: 14 years 7 months
+PUB7,Child Based Q variable names,Puberty7 Files,Puberty7 Files. Questionnaire: Growing and Changing 7. Completed by: Mother/child. At: 15.5 years
+PUB8,Child Based Q variable names,Puberty8 Files,Puberty8 Files. Questionnaire: Growing and Changing 8. Completed by: Mother/child. At: 16 years 
+PUB9,Child Based Q variable names,Puberty9 Files,Puberty9 Files. Questionnaire: Growing and Changing 9. Completed by: Mother/child. At: 17 years
+TA,Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years
+TB,Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years
+TC,Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years
+TXA,Child Based Q variable names,TXA Files,TXA Files. Questionnaire: Year 11 Q for Parents and Carers. Completed by: Mother. At: Year 11
+CCA,Child Completed Q variable names,CCA Files,CCA Files. Questionnaires:  My Teeth. Your own Questionnaire At:  65 months. My second Questionnaire	At:  69 months. Your next Questionnaire At:  73 months. Growing Up At:  77 months. My Questionniare At:  81 months. Things for you to do At:  85 months.
+CCB,Child Completed Q variable names,CCB Files,CCB Files. Questionnaire:  My Teeth. Completed by: Child. At:  91 months
+CCC,Child Completed Q variable names,CCC Files,CCC Files. Questionnaire:  Me and My School. Completed by: Child. At:  97 months
+CCD,Child Completed Q variable names,CCD Files,CCD Files. Questionnaire:  Some More About Me. Completed by: Child. At:  103 months
+CCE,Child Completed Q variable names,CCE Files,CCE Files. Questionnaire:  My World. Completed by: Child. At:  110 months
+CCF,Child Completed Q variable names,CCF Files,CCF Files. Questionnaire:  My Hands.  My Feet and Me. Completed by: Child. At:  116 months
+CCG,Child Completed Q variable names,CCG Files,CCG Files. Questionnaire:  Rings & Things. Completed by: Child. At:  122 months
+CCH,Child Completed Q variable names,CCH Files,CCH Files. Questionnaire: Teeth and Things. Completed by: Child. At:  128 months
+CCJ,Child Completed Q variable names,CCJ Files,CCJ Files. Questionnaire:  School Life and Me. Completed by: Child. At:  Year 11 
+CCK,Child Completed Q variable names,CCK Files,CCK Files. Questionnaire:  Watches and Funny Feelings. Completed by: Child. At:  11 Years
+CCL,Child Completed Q variable names,CCL Files,CCL Files. Questionnaire:  All Around Me. Completed by: Child. At:  12 Years
+CCM,Child Completed Q variable names,CCM Files,CCM Files. Questionnaire:  Food and Things. Completed by: Child. At:  13 Years
+CCN,Child Completed Q variable names,CCN Files,CCN Files. Questionnaire:  Reading and Singing. Completed by: Child. At:  13 Years
+CCP,Child Completed Q variable names,CCP Files,CCP Files. Questionnaire:  Travelling.  Leisure and School. Completed by: Child. At:  13 Years
+CCQ,Child Completed Q variable names,CCQ Files,CCQ Files. Questionnaire:  Experiences.  Thoughts and  Behaviour. Completed by: Child. At:  13 Years
+CCR,Child Completed Q variable names,CCR Files,CCR Files. Questionnaire:  Life of a Teenager. Completed by: Child. At: 14 Years
+CCS,Child Completed Q variable names,CCS Files,CCS Files. Questionnaire:  Life of a 16+ Teenager. Completed by: Child. At:  16 Years
+CCT,Child Completed Q variable names,CCT Files,CCT Files. Questionnaire:  Your Changing Life. Completed by: Child. At:  18 Years
+CCU,Child Completed Q variable names,CCU Files,CCU Files. Questionnaire:  It's All About You 20+. Completed by: Child. At:  20+ Years
+CCXA,Child Completed Q variable names,CCXA Files,CCXA Files. Questionnaire:  Year 11 Q for Young People. Completed by: Child. At:  Year 11
+CCXB,Child Completed Q variable names,CCXB Files,CCXB Files. Questionnaire:  You and Your Friends. Completed by: Child. At:  15.5 years
+CCXC,Child Completed Q variable names,CCXC Files,CCXC Files. Questionnaire: Internet Use. Completed by: Child. At:  18 years
+CCXD,Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years
+CCXE,Child Completed Q variable names,CCXE Files,CCXE Files. Questionnaire:  Gambling. Completed by: Child. At:  18 years
+CCXF,Child Completed Q variable names,CCXF Files,CCXF Files. Questionnaire:  You and Your Body. Completed by: Child. At:  19.5 years
+YPA,Child Completed Q variable names,YPA Files,YPA Files. Questionnaire:  Your Life Now . Completed by: Child. At:  21+ Years
+YPB,Child Completed Q variable names,YPB Files,YPB Files. Questionnaire:  Life at 22+. Completed by: Child. At:  22+ Years
+YPC,Child Completed Q variable names,YPC Files,YPC Files. Questionnaire:  Life at 23+. Completed by: Child. At:  23+ Years
+YPD,Child Completed Q variable names,YPD Files,YPD Files. Questionnaire:  Life at 24+. Completed by: Child. At:  24+ Years
+CIF,Child clinic variable names,CIF  Files,CIF  Files. Clinic: Children in Focus. At:  4 weeks  through to  61 months
+F10,Child clinic variable names,F10  Files,F10  Files. Clinic: Focus 10+. At:  10+ years
+F11,Child clinic variable names,F11  Files,F11  Files. Clinic: Focus 11+. At:  11+ years
+F24,Child clinic variable names,F24  File,F24  File. Clinic:  Focus @ 24. At:  24 years
+F7,Child clinic variable names,F7  Files,F7  Files. Clinic: Focus @ 7. At:   7 years
+F8,Child clinic variable names,F8  Files,F8  Files. Clinic: Focus @ 8. At:   8 years
+F9,Child clinic variable names,F9  Files,F9  Files. Clinic: Focus @ 9. At:   9 years
+TF1,Child clinic variable names,TF1  Files,TF1  Files. Clinic:  Teen Focus 1. At:  12.5 years
+TF2,Child clinic variable names,TF2  Files,TF2  Files. Clinic: Teen Focus 2. At:  13.5 years
+TF3,Child clinic variable names,TF3  Files,TF3  Files. Clinic:  Teen Focus 3. At:  15.5 years
+TF4,Child clinic variable names,TF4  Files,TF4  Files. Clinic:  Teen Focus 4. At:  17.5 years
+TF4pliks,Child clinic variable names,TF4  Files,TF4  Files. Clinic:  Teen Focus 4. At:  17.5 years
+ASCF,Education variable names,ASC_F Files,ASC_F Files. Annual School Census  linked data . Collected in 1999
+ASCG,Education variable names,ASC_G Files,ASC_G Files. Annual School Census  linked data . Collected in 2000
+ASCH,Education variable names,ASC_H Files,ASC_H Files. Annual School Census  linked data . Collected in 2001
+ASCJ,Education variable names,ASC_J Files,ASC_J Files. Annual School Census  linked data . Collected in 2002
+ASCK,Education variable names,ASC_K Files,ASC_K Files. Annual School Census  linked data . Collected in 2003
+ASCL,Education variable names,ASC_L Files,ASC_L Files. Annual School Census  linked data . Collected in 2004
+ASCM,Education variable names,ASC_M Files,ASC_M Files. Annual School Census  linked data . Collected in 2005
+ASCN,Education variable names,ASC_N Files,ASC_N Files. Annual School Census  linked data . Collected in 2006
+ASCO,Education variable names,ASC_O Files,ASC_O Files. Annual School Census  linked data . Collected in 2007
+ASCP,Education variable names,ASC_P Files,ASC_P Files. Annual School Census  linked data . Collected in 2008
+ASCQ,Education variable names,ASC_Q Files,ASC_Q Files. Annual School Census  linked data . Collected in 2009
+KS1,Education variable names,KS1 Files,KS1 Files. Entry Assessment and Key Stage 1 linked data . Reception & Year 2
+KS2,Education variable names,KS2 Files,KS2 Files. Key Stage 2 linked data . Year 4
+KS3,Education variable names,KS3 Files,KS3 Files. Key Stage 3 linked data . Year 9
+KS4,Education variable names,KS4 Files,KS4 Files. Key Stage 4 (GCSEs)  linked data . Year 11
+PLASC,Education variable names,PLASC Files,PLASC Files. Pupil Level Annual School Census  linked data . Collected in 2001/2 and 2002/3 and 2003/4
+A,Mother based Q variable names,A Files,A Files. Questionnaire: Your Environment. Completed by: Mother. At: 8 weeks gest
+B,Mother based Q variable names,B Files,B Files. Questionnaire: Having a Baby. Completed by: Mother. At: 18 weeks gest
+C,Mother based Q variable names,C Files,C Files. Questionnaire:  Your Pregnancy. Completed by: Mother. At: 32 weeks gest
+D,Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest
+E,Mother based Q variable names,E Files,E Files. Questionnaire: Me and My Baby. Completed by: Mother. At: 8 weeks
+F,Mother based Q variable names,F Files,F Files. Questionnaire:  Looking after the baby. Completed by: Mother. At: 8 months
+G,Mother based Q variable names,G Files,G Files. Questionnaire: Caring for a toddler. Completed by: Mother. At: 1 year 9 months
+H,Mother based Q variable names,H Files,H Files. Questionnaire:  Your health.  events and feelings. Completed by: Mother. At: 2 years 9 months
+J,Mother based Q variable names,J Files,J Files. Questionnaire: Mothers new questionnaire. Completed by: Mother. At: 3 years 11 months
+Jnut,Mother based Q variable names,J Files,J Files. Questionnaire: Mothers new questionnaire. Completed by: Mother. At: 3 years 11 months
+K,Mother based Q variable names,K Files,K Files. Questionnaire:  Study mothers questionnaire. Completed by: Mother. At: 5 years 1 month
+L,Mother based Q variable names,L Files,L Files. Questionnaire: Mothers lifestyle. Completed by: Mother. At: 6 years 1 month
+M,Mother based Q variable names,M Files,M Files. Questionnaire: Mother and home. Completed by: Mother. At: 7 years 1 month
+N,Mother based Q variable names,N Files,N Files. Questionnaire:  Mother and family. Completed by: Mother. At: 8 years 1 month
+P,Mother based Q variable names,P Files,P Files. Questionnaire:  Mother of a 9 year old. Completed by: Mother. At: 9 years 2 months
+Q,Mother based Q variable names,Q Files,Q Files. Questionnaire:  You and your surroundings. Completed by: Mother. At: 10 years 2 months
+R,Mother based Q variable names,R Files,R Files. Questionnaire:  Lifestyle and health of mother. Completed by: Mother. At: 11 years 2 months
+S,Mother based Q variable names,S Files,S Files. Questionnaire:  Twelve years on. Completed by: Mother. At: 12 years 1 month
+T,Mother based Q variable names,T Files,T Files. Questionnaire:  You and your life. Completed by: Mother. May-Sept 2010
+,Mother based Q variable names,T Files,T Files. Questionnaire:  You and your life. Completed by: Mother. May-Sept 2010
+XA,Mother based Q variable names,XA Files,XA Files. Questionnaire:  Adult Learning. Completed by: Mother. May-Oct 2004
+XB,Mother based Q variable names,XB Files,XB Files. Questionnaire:  About eating. Completed by: Mother. Jan-Feb 2010
+KZ,Other files variable names,KZ files,KZ files. Child baseline sample data
+MZ,Other files variable names,MZ files,MZ files. Pregnancy baseline sample data
+OA,Other files variable names,OA files,OA files. Data from Obstetric clinical records; abstracted by DA Lawlor
+OB,Other files variable names,OB files,OB files. Data from Obstetric clinical records; abstracted by J Golding
+OC,Other files variable names,OC files,OC files. Data from Obstetric and neonatal clinical records; abstracted by J Golding
+Soc_Class_m,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_ptnr_pp,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_p,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_mgf,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_mgm,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_pgf,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+Soc_Class_pgm,Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires
+FOF1,Parental clinic variable names,FOF1 Files,FOF1 Files. Clinic : Focus on Fathers 1. Ran: Sept 2011 to Feb 2013
+FOM1,Parental clinic variable names,FOM1 Files,FOM1 Files. Clinic : Focus on Mothers 1. Ran: Dec 2008 to July 2011
+FOM2,Parental clinic variable names,FOM2 Files,FOM2 Files. Clinic : Focus on Mothers 2. Ran: July 2011 to June 2013
+FOM3,Parental clinic variable names,FOM3 Files,FOM3 Files. Clinic : Focus on Mothers 3. Ran: March 2013 to March 2014
+FOM4,Parental clinic variable names,FOM4 Files,FOM4 Files. Clinic : Focus on Mothers 4. Ran: April 2014 to March 2015
+FA,Partner based Q variable names,FA Files,FA Files. Questionnaire: Focusing on You . Completed by: FArtner. Father at clinic. Ran Sept 2011 to Feb 2013
+PA,Partner based Q variable names,PA Files,PA Files. Questionnaire: You and your environment. Completed by: Partner. At: 12 weeks gest
+PB,Partner based Q variable names,PB Files,PB Files. Questionnaire: Partners Questionnaire. Completed by: Partner. At: 18 weeks gest
+PC,Partner based Q variable names,PC Files,PC Files. Questionnaire: Being a father. Completed by: Partner. At: 8 weeks
+PD,Partner based Q variable names,PD Files,PD Files. Questionnaire: The baby and me. Completed by: Partner. At: 8 months
+PE,Partner based Q variable names,PE Files,PE Files. Questionnaire: A toddler in the house. Completed by: Partner. At: 1 year 9 months
+PF,Partner based Q variable names,PF Files,PF Files. Questionnaire: Partners health.  events and feelings. Completed by: Partner. At: 2 years 9 months
+PG,Partner based Q variable names,PG Files,PG Files. Questionnaire: Partners new questionnaire. Completed by: Partner. At: 3 years 11 months
+PGnut,Partner based Q variable names,PG Files,PG Files. Questionnaire: Partners new questionnaire. Completed by: Partner. At: 3 years 11 months
+PH,Partner based Q variable names,PH Files,PH Files. Questionnaire: Study partners questionnaire. Completed by: Partner. At: 5 years 1 month
+PJ,Partner based Q variable names,PJ Files,PJ Files. Questionnaire: Partners lifestyle. Completed by: Partner. At: 6 years 1 month
+PK,Partner based Q variable names,PK Files,PK Files. Questionnaire: Partner and home. Completed by: Partner. At: 7 years 1 month
+PL,Partner based Q variable names,PL Files,PL Files. Questionnaire: Father and the family. Completed by: Partner. At: 8 years 1 month
+PM,Partner based Q variable names,PM Files,PM Files. Questionnaire: Father of a 9 year old. Completed by: Partner. At: 9 years 2 months
+PN,Partner based Q variable names,PN Files,PN Files. Questionnaire: Father and surroundings. Completed by: Partner. At: 10 years 2 months
+PP,Partner based Q variable names,PP Files,PP Files. Questionnaire: Lifestyle and health of partner. Completed by: Partner. At: 11 years 2 months
+PQ,Partner based Q variable names,PQ Files,PQ Files. Questionnaire: Partners - about me. Completed by: Partner. At: 12 years 1 month
+PXA,Partner based Q variable names,PXA Files,PXA Files. Questionnaire: Partners adult learning. Completed by: Partner. May-Oct 2004
+SABC,School based Q variable names,SABC Files,SABC Files. Questionnaire: Combined file of SA.  SB & SC. Completed by: Teacher. At: School year 3
+SD,School based Q variable names,SD Files,SD Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 4
+SEFG,School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6
+SH,School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6
+SK,School based Q variable names,SK Files,SK Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 8
+GLOBAL,global,GLOBAL,Identifier for each child. Combine with qlet to completely identify a child.
+GLOBAL,global,GLOBAL,Identifies children from multiple births.
+DAWBA Bands,uncatalogued,DAWBA Bands,DAWBA Bands

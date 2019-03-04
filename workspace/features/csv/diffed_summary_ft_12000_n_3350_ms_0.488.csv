@@ -1,0 +1,7 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,145,0.453,0.539,0.02,0.502,0.736
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,200,0.497,0.541,0.273,0.541,0.749
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,77,0.474,0.629,0.024,0.634,0.751
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,169,0.499,0.581,0.021,0.548,0.767
+Child Based Q variable names,KR Files,KR Files. Questionnaire: My Son/Daughter's Well-Being. Completed by: Mother. At: 91 months,342,0.474,0.475,0.466,0.474,0.503
+Child clinic variable names,F11  Files,F11  Files. Clinic: Focus 11+. At:  11+ years,114,0.546,0.546,0.537,0.545,0.561

@@ -1,0 +1,24 @@
+type,file_descriptor,context,proportion_count,proportion_hmean,proportion_mean,proportion_min,proportion_median,proportion_max
+Child Based Q variable names,KB Files,KB Files. Questionnaire: My Daughter/Son. Completed by: Mother. At: 6 months,20,0.26,0.26,0.257,0.257,0.266
+Child Based Q variable names,KC Files,KC Files. Questionnaire: My Infant Daughter/Son. Completed by: Mother. At:  15 months,15,0.293,0.293,0.284,0.288,0.309
+Child Based Q variable names,KD Files,KD Files. Questionnaire: Girl/Boy toddler. Completed by: Mother. At: 18 months,55,0.285,0.285,0.28,0.284,0.305
+Child Based Q variable names,KN Files,KN Files. Questionnaire: My School Boy/Girl. Completed by: Mother. At: 69 months,1,0.271,0.271,0.271,0.271,0.271
+Child Based Q variable names,KP Files,KP Files. Questionnaire: My Daughter/Son Growing Up. Completed by: Mother. At: 78 months,1,0.295,0.295,0.295,0.295,0.295
+Child Based Q variable names,KS Files,KS Files. Questionnaire: My Son/Daughter's Health. Completed by: Mother. At: 103 months,2,0.039,0.141,0.021,0.141,0.26
+Child Based Q variable names,KU Files,KU Files. Questionnaire: Your Son/Daughter at 9. Completed by: Mother. At: 9 years,1,0.279,0.279,0.279,0.279,0.279
+Child Based Q variable names,KV Files,KV Files. Questionnaire: Girl/Boy Health and Happiness. Completed by: Mother. At: 10 years,2,0.038,0.157,0.02,0.157,0.294
+Child Based Q variable names,KW Files,KW Files. Questionnaire: Being a Girl/Boy. Completed by: Mother. At: 11 years,2,0.038,0.162,0.02,0.162,0.303
+Child Based Q variable names,TA Files,TA Files. Questionnaire: My Teenage Son/Daughter . Completed by: Mother. At: 13 years,2,0.039,0.167,0.021,0.167,0.314
+Child Based Q variable names,TB Files,TB Files. Questionnaire: Wellbeing of my Teenage Son/Daughter . Completed by: Mother. At: 13 years,1,0.021,0.021,0.021,0.021,0.021
+Child Based Q variable names,TC Files,TC Files. Questionnaire: Your Daughter/Son 16+ Years On. Completed by: Mother. At: 61 years,1,0.024,0.024,0.024,0.024,0.024
+Child Completed Q variable names,CCXD Files,CCXD Files. Questionnaire:  DCSF Online Survey. Completed by: Child. At:  17.5 years,17,0.001,0.001,0.001,0.001,0.001
+Mother based Q variable names,D Files,D Files. Questionnaire: About Yourself. Completed by: Mother. At: 12 weeks gest,14,0.184,0.184,0.184,0.184,0.184
+Mother based Q variable names,F Files,F Files. Questionnaire:  Looking after the baby. Completed by: Mother. At: 8 months,3,0.269,0.269,0.269,0.269,0.269
+Other files variable names,KZ files,KZ files. Child baseline sample data,15,0.004,0.028,0.0,0.006,0.092
+Other files variable names,MZ files,MZ files. Pregnancy baseline sample data,5,0.006,0.014,0.005,0.005,0.051
+Other files variable names,OA files,OA files. Data from Obstetric clinical records; abstracted by DA Lawlor,1,0.192,0.192,0.192,0.192,0.192
+Other files variable names,Social Class files,Social Class files. Data derived from occupation data provided in parental questionnaires,11,0.282,0.282,0.273,0.279,0.319
+School based Q variable names,SEFG Files,SEFG Files. Questionnaire: Combined file of SE.  SF & SG. Completed by: Teacher. At: School year 6,2,0.022,0.022,0.022,0.022,0.022
+School based Q variable names,SH Files,SH Files. Questionnaire: Maths assessment. Completed by: Teacher. At: School year 6,2,0.022,0.022,0.022,0.022,0.022
+global,GLOBAL,Identifier for each child. Combine with qlet to completely identify a child.,1,0.0,0.0,0.0,0.0,0.0
+global,GLOBAL,Identifies children from multiple births.,1,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,221 @@
+Questionnaire	ID	Details	Months	Years
+KJ	kj605	CH is Affectionate to Family Members	42	3.5
+KJ	kj606	CH Fights With Other Children	42	3.5
+KJ	kj607	Other Children Dislike Child	42	3.5
+KJ	kj612	CH wil Help Someone who is Hurt	42	3.5
+KJ	kj617	CH is Kind to Young Children	42	3.5
+KJ	kj620	CH Helps Children Feeling Ill	42	3.5
+KJ	kj624	CH Comforts Child who is Upset	42	3.5
+KJ	kj628	CH Bullies Other Children	42	3.5
+KJ	kj630	CH gets on With Other Children	42	3.5
+KJ	kj635	CH Shares Treats With Friends	42	3.5
+KJ	kj637	CH is Inconsiderate of Others	42	3.5
+KJ	kj639	CH Bites or Kicks Other Children	42	3.5
+KJ	kj640	CH is Kind to Animals	42	3.5
+KJ	kj642	CH Tries to Stop Quarrels	42	3.5
+KL	kl700	F1: Child tends to be shy	57	4.8
+KL	kl702	F3: Child likes to be with people	57	4.8
+KL	kl704	F5: Child prefers playing with others rather than alone	57	4.8
+KL	kl707	F8: Child makes friends easily	57	4.8
+KL	kl709	F10: Child finds people more stimulating than anything else	57	4.8
+KL	kl711	F12: Child is very sociable	57	4.8
+KL	kl713	F14: Child takes a long time to warm to strangers	57	4.8
+KL	kl715	F16: Child is something of a loner	57	4.8
+KL	kl717	F18: When alone child feels isolated	57	4.8
+KL	kl719	F20: Child is very friendly with strangers	57	4.8
+KL	kl730	F21: Child bullies other children	57	4.8
+KL	kl734	F25: Child fights with other children	57	4.8
+KL	kl735	F26: Child is not much liked by other children	57	4.8
+KL	kl749	F40: Child smiles when child sees their parent(s)	57	4.8
+KL	kl760	F43: Frequency child joins in with others	57	4.8
+KL	kl762	F45: Number of children who choose to play with child	57	4.8
+KL	kl765	F48: Frequency child will comfort another child who is upset	57	4.8
+KL	kl766	F49: Frequency child tells parent untrue things about others to get them in trouble	57	4.8
+KL	kl770	F53: Frequency child is too demanding of parent	57	4.8
+KL	kl775	F58: Child some times interrupts/butts in when others are talking	57	4.8
+KL	kl791	F62b: Child is teased by brothers and sisters	57	4.8
+KL	kl792	F62c: Child teases brothers and sisters	57	4.8
+KL	kl793	F62d: Child is deliberately provoked by brothers and sisters	57	4.8
+KL	kl794	F62e: Child deliberately provokes brothers and sisters	57	4.8
+KL	kl795	F62f: Child is willing to share with brothers and sisters	57	4.8
+KL	kl801	F63b: Child is teased by other children	57	4.8
+KL	kl802	F63c: Child teases other children	57	4.8
+KL	kl803	F63d: Child is deliberately provoked by other children	57	4.8
+KL	kl804	F63e: Child deliberately provokes other children	57	4.8
+KL	kl805	F63f: Child is willing to share with other children	57	4.8
+KL	kl873	F70d1: Frequency child swears at adults who are family members	57	4.8
+KL	kl874	F70e1: Frequency child uses angry words to adults who are family members	57	4.8
+KL	kl883	F70d2: Frequency child swears at children who are family members	57	4.8
+KL	kl884	F70e2: Frequency child uses angry words to children who are family members	57	4.8
+KL	kl893	F71d1: Frequency child swears at adults who are not family members	57	4.8
+KL	kl894	F71e1: Frequency child uses angry words to adults who are not family members	57	4.8
+KL	kl903	F71d2: Frequency child swears at children who are not family members	57	4.8
+KL	kl904	F71e2: Frequency child uses angry words to children who are not family members	57	4.8
+KN	kn6000	F1: Frequency child tends to be shy	69	5.8
+KN	kn6002	F3: Frequency child likes to be with people	69	5.8
+KN	kn6004	F5: Frequency child prefers playing with others rather than alone	69	5.8
+KN	kn6007	F8: Frequency child makes friends easily	69	5.8
+KN	kn6009	F10: Frequency child finds people more stimulating than anything else	69	5.8
+KN	kn6011	F12: Frequency child is very sociable	69	5.8
+KN	kn6013	F14: Frequency child takes a long time to warm to strangers	69	5.8
+KN	kn6015	F16: Frequency child is something of a loner	69	5.8
+KN	kn6017	F18: Frequency child feels isolated when alone	69	5.8
+KN	kn6019	F20: Frequency child is very friendly with strangers	69	5.8
+KN	kn6020	F21: Frequency child bullies other children	69	5.8
+KN	kn6024	F25: Frequency child fights with other children	69	5.8
+KN	kn6025	F26: Frequency child is not much liked by other children	69	5.8
+KN	kn6039	F40: Frequency child smiles when sees parents	69	5.8
+KQ	kq320	C1: CH Considerate Others Feelings Past 6 Mths	81	6.8
+KQ	kq323	C4: CH Shared With Other Kids Past 6 Mths	81	6.8
+KQ	kq325	C6: CH Solitary & Played Alone Past 6 Mths	81	6.8
+KQ	kq328	C9: CH Helpful If Someone Hurt Past 6 Mths	81	6.8
+KQ	kq330	C11: CH Had At Least One Good Friend Past 6 Mths	81	6.8
+KQ	kq331	C12: CH Fights With/Bullies Other Kids Past 6 Mths	81	6.8
+KQ	kq333	C14: CH Generally Liked By Other Kids Past 6 Mths	81	6.8
+KQ	kq336	C17: CH Kind To Younger Children Past 6 Mths	81	6.8
+KQ	kq338	C19: CH Been Bullied In Past 6 Mths	81	6.8
+KQ	kq339	C20: CH Often Vol To Help Others Past 6 Mths	81	6.8
+KQ	kq342	C23: CH Got On Better With Adults Past 6 Mths	81	6.8
+KQ	kq465	E4a: Does CH Share Toys With Others	81	6.8
+KQ	kq466	E4b: CH Shares Others Toys Knowing Not Own	81	6.8
+KQ	kq467	E4c: CH Feels Sympathy For Others If Hurt	81	6.8
+KR	kr250	E1: Child fears situations involving lots of people	91	7.6
+KR	kr251	E2a: Degree to which child was afraid of meeting new people in past month	91	7.6
+KR	kr251a	DV: Child was afraid of meeting new people in past month	91	7.6
+KR	kr252	E2b: Degree to which child was afraid of meeting lots of people in past month	91	7.6
+KR	kr252a	DV: Child was afraid of meeting lots of people in past month	91	7.6
+KR	kr253	E2c: Degree to which child was afraid of speaking in class in past month	91	7.6
+KR	kr253a	DV: Child was afraid of speaking in class in past month	91	7.6
+KR	kr254	E2d: Degree to which child was afraid of reading out loud before others in past month	91	7.6
+KR	kr254a	DV: Child was afraid of reading out loud before others in past month	91	7.6
+KR	kr255	E2e: Degree to which child was afraid of writing in front of others in past month	91	7.6
+KR	kr255a	DV: Child was afraid of writing in front of others in past month	91	7.6
+KR	kr256	E2f: Degree to which child was afraid of eating in front of others in past month	91	7.6
+KR	kr256a	DV: Child was afraid of eating in front of others in past month	91	7.6
+KR	kr257a	DV: Number of social fears	91	7.6
+KR	kr257b	DV: Any social fears	91	7.6
+KR	kr257c	DV: Number of missing social fears components	91	7.6
+KR	kr258a	DV: Number of severe social fears	91	7.6
+KR	kr258b	DV: Any severe social fears	91	7.6
+KR	kr258c	DV: Number of missing social fears components	91	7.6
+KR	kr259c	DV: Number of missing social fears components	91	7.6
+KR	kr261	E4: Relationship of child's social fears to adults/children	91	7.6
+KR	kr262	E5: Child gets on with known people outside of feared situations	91	7.6
+KR	kr263	E6a: Child's social fear due to embarrassment	91	7.6
+KR	kr264	E6b: Child's social fear related to speech, reading or writing problems	91	7.6
+KR	kr267	E7b: Age social fears began	91	7.6
+KR	kr268	E8: Degree to which child is upset by confrontation with social fears	91	7.6
+KR	kr269	E9: Frequency child is upset by social fears	91	7.6
+KR	kr270	E10a: Degree to which child avoids feared situations due to social fears	91	7.6
+KR	kr271	E10b: Degree to which avoidance interferes with daily life	91	7.6
+KR	kr272	E10c: Child recognises social fears are excessive	91	7.6
+KR	kr273	E10d: Child is upset about having social fears	91	7.6
+KR	kr274	E11: Degree to which child's social fears have burdened the family	91	7.6
+KR	kr275b	DV: Any burden of social fears	91	7.6
+KR	kr275c	DV: Number of missing burden of social fears components	91	7.6
+KR	kr507	L9c: Frequency child has bullied/threatened people in past 12 months	91	7.6
+KR	kr507a	DV: Child has bullied/threatened people in past 12 months	91	7.6
+KR	kr508	L9c1: Child has been often bullying/threatening people for past 6 months	91	7.6
+KR	kr539	M3a: Child was unaware of other people's feelings over past 6 months	91	7.6
+KR	kr539a	DV: Child was unaware of other people's feelings over past 6 months (Y/N)	91	7.6
+KR	kr540	M3b: Child did not realise when others were upset/angry over past 6 months	91	7.6
+KR	kr540a	DV: Child did not realise when others were upset/angry over past 6 months (Y/N)	91	7.6
+KR	kr541	M3c: Child did not notice the effect of own behaviour on other family members over past 6 months	91	7.6
+KR	kr541a	DV: Child did not notice the effect of own behaviour on other family members over past 6 months (Y/N)	91	7.6
+KR	kr543	M3e: Child was very demanding of other people's time over past 6 months	91	7.6
+KR	kr543a	DV: Child was very demanding of other people's time over past 6 months (Y/N)	91	7.6
+KR	kr545	M3g: Child did not seem to understand social skills over past 6 months	91	7.6
+KR	kr545a	DV: Child did not seem to understand social skills over past 6 months (Y/N)	91	7.6
+KR	kr546	M3h: Child did not pick up on body language over past 6 months	91	7.6
+KR	kr546a	DV: Child did not pick up on body language over past 6 months (Y/N)	91	7.6
+KR	kr548	M3j: Child did not realise people were offended by own behaviour over past 6 months	91	7.6
+KR	kr548a	DV: Child did not realise people were offended by own behaviour over past 6 months (Y/N)	91	7.6
+KU	ku680	F1: Child has been considerate of other people's feelings in past 6 months	108	9.0
+KU	ku683	F4: Child has shared readily with other children in past 6 months	108	9.0
+KU	ku685	F6: Child is rather solitary, tends to play alone in past 6 months	108	9.0
+KU	ku688	F9: Child is helpful if someone hurt, upset or feeling ill in past 6 months	108	9.0
+KU	ku691	F12: Child often fights with other children or bullies them in past 6 months	108	9.0
+KU	ku693	F14: Child is generally liked by other children in past 6 months	108	9.0
+KU	ku696	F17: Child is kinder to younger children in past 6 months	108	9.0
+KU	ku698	F19: Child is picked on or bullied by other children in past 6 months	108	9.0
+KU	ku699	F20: Child often volunteers to help others in past 6 months	108	9.0
+KU	ku702	F23: Child gets on better with adults than with other children in past 6 months	108	9.0
+KV	kv7522	L3c: In last 6 months child often butted in on others conversations or games	120	10.0
+KV	kv7523	L3d: In last 6 months child often went on talking even if told to stop or no one is listening	120	10.0
+KV	kv8011	M2b: In past 6 months child has argued with grown-ups	120	10.0
+KV	kv8084	M9c: In past year child has bullied or threatened people	120	10.0
+KV	kv8520	N3a: In past 6 months child was not aware of others feelings	120	10.0
+KV	kv8521	N3b: In past 6 months child did not realise when others were upset	120	10.0
+KV	kv8522	N3c: In past 6 months child did not notice the effect of behaviour on family members	120	10.0
+KV	kv8524	N3e: In past 6 months child as been very demanding of other time	120	10.0
+KV	kv8526	N3g: In past 6 months child did not seem to understand social skills	120	10.0
+KV	kv8527	N3h: In past 6 months child did not pick up on body language	120	10.0
+KV	kv8529	N3j: In past 6 months child did not understand when child was offending people	120	10.0
+KW	kw6508	G9: Child has been helpful if someone is hurt/upset/feeling ill in the last six months	132	11.0
+KW	kw6510	G11: Child has had at least one good friend in the last six months	132	11.0
+KW	kw6511	G12: Child has often fought with other children or bullied them in the last six months	132	11.0
+KW	kw6513	G14: Child has been generally liked by other children in the last six months	132	11.0
+KW	kw6516	G17: Child has been kind to younger children in the last six months	132	11.0
+KW	kw6518	G19: Child has been picked on or bullied by other children in the last six months	132	11.0
+KW	kw6519	G20: Child has often volunteered to help others in the last six months	132	11.0
+KW	kw6522	G23: Child has gets on better with adults than other children in the last six months	132	11.0
+KW	kw6600a	DV: SDQ - Prosocial score (complete cases)	132	11.0
+KW	kw6600b	DV: SDQ - Prosocial score (prorated)	132	11.0
+KW	kw6600c	DV: SDQ - Number of missing prosocial components	132	11.0
+TA	ta3000	D1a: Teenager's ability to laugh around with others, in comparison to others the same age	157	13.1
+TA	ta3001	D1b: Teenager's ability to chat easily, even if topic isn't of interest, in comparison to others the same age	157	13.1
+TA	ta3003	D1d: Teenager's ability to say/do right thing to defuse tense/embarrassing situation, in comparison to others the same age	157	13.1
+TA	ta3004	D1e: Teenager's ability to be graceful/good loser when things don't go their way, in comparison to others the same age	157	13.1
+TA	ta3005	D1f: Teenager's ability to make other people feel at ease, in comparison to others the same age	157	13.1
+TA	ta3006	D1g: Teenager's ability to read between lines to work out what people think/feel, in comparison to others the same age	157	13.1
+TA	ta3007	D1h: Teenager's ability to say sorry/sort things out without bad feeling, in comparison to others the same age	157	13.1
+TA	ta3008	D1i: Teenager's ability to take the lead without others feeling bossed about, in comparison to others the same age	157	13.1
+TA	ta3009	D1j: Teenager's awareness of what is/isn't appropriate in social situations, in comparison to others the same age	157	13.1
+TA	ta7000	I1: Teenager is considerate of other people's feelings	157	13.1
+TA	ta7003	I4: Teenager has shared readily with other children/teenagers	157	13.1
+TA	ta7005	I6: Teenager is rather solitary, tends to play alone	157	13.1
+TA	ta7008	I9: Teenager is helpful if someone is hurt, upset or ill	157	13.1
+TA	ta7010	I11: Teenager has at least one good friend	157	13.1
+TA	ta7011	I12: Teenager often fights or bullies other children/teenagers	157	13.1
+TA	ta7013	I14: Teenager is generally liked by other children	157	13.1
+TA	ta7018	I19: Teenager is often picked on or bullied by other children	157	13.1
+TA	ta7019	I20: Teenager often volunteers to help others	157	13.1
+TA	ta7022	I23: Teenager gets on better with adults than other teenagers	157	13.1
+TB	tb3002	C3: Frequency child makes good first impression but people change their mind after getting to know them	166	13.8
+TB	tb3003	C4: Frequency child keeps friends	166	13.8
+TB	tb3006	C7: Frequency child is genuinely sorry if they hurt someone/acted badly	166	13.8
+TB	tb5000	F1: Child generally fears/avoids meeting new people/doing thing's in front of people	166	13.8
+TB	tb5010	F2a: Degree to which child particularly afraid of meeting new people during last month	166	13.8
+TB	tb5011	F2b: Degree to which child particularly afraid of meeting a lot people during last month	166	13.8
+TB	tb5012	F2c: Degree to which child particularly afraid of speaking in class during last month	166	13.8
+TB	tb5013	F2d: Degree to which child particularly afraid of reading a loud in front of others during last month	166	13.8
+TB	tb5014	F2e: Degree to which child particularly afraid of writing in front of others during last month	166	13.8
+TB	tb5015	F2f: Degree to which child particularly afraid of eating in front of others during last month	166	13.8
+TB	tb7522	L3c: Degree to which child often butt's in on other people's conversation/games in past 6 months relative to peers	166	13.8
+TB	tb7532	L4c: Degree to which child often not listening to what people saying to them in past 6 months relative to peers	166	13.8
+TB	tb8084	M9c: Child bullied/threatened people over past 12 months	166	13.8
+TB	tb8520	O3a: Frequency child not aware of other people's feelings over last 6 months	166	13.8
+TB	tb8521	O3b: Frequency child doesn't realise when others upset/angry over last 6 months	166	13.8
+TB	tb8522	O3c: Frequency child doesn't notice effect of their behaviour on other family members over last 6 months	166	13.8
+TB	tb8524	O3e: Frequency child is very demanding of other people's time over last 6 months	166	13.8
+TB	tb8526	O3g: Frequency child doesn't seem to understand social skills e.g. interrupts conversations constantly over last 6 months	166	13.8
+TB	tb8527	O3h: Frequency child doesn't pick up on body language over last 6 months	166	13.8
+TB	tb8529	O3j: Frequency child doesn't realise they offend other people with their behaviour over last 6 months	166	13.8
+TC	tc4000	D1: In the past 6 months, study teenager has been considerate of other people's feelings	198	16.5
+TC	tc4003	D4: In the past 6 months, study teenager has shared readily with other children and teenagers	198	16.5
+TC	tc4005	D6: In the past 6 months, study teenager is rather solitary, tends to be alone	198	16.5
+TC	tc4008	D9: In the past 6 months, study teenager is helpful if someone is hurt, upset or feeling ill	198	16.5
+TC	tc4010	D11: In the past 6 months, study teenager has at least one good friend	198	16.5
+TC	tc4011	D12: In the past 6 months, study teenager often fights or bullies other children or teenagers	198	16.5
+TC	tc4013	D14: In the past 6 months, study teenager is generally liked by others	198	16.5
+TC	tc4016	D17: In the past 6 months, study teenager is kind to younger children	198	16.5
+TC	tc4018	D19: In the past 6 months, study teenager is picked on or bullied by other teenagers	198	16.5
+TC	tc4019	D20: In the past 6 months, study teenager often volunteers to help others (parents, teachers, other teenagers)	198	16.5
+TC	tc4022	D23: In the past 6 months, study teenager gets on better with adults than with other teenagers	198	16.5
+TC	tc4050	D39a: Over the last 6 months, study teenager was not aware of other people's feelings	198	16.5
+TC	tc4051	D39b: Over the last 6 months, study teenager did not realise when others are upset or angry	198	16.5
+TC	tc4052	D39c: Over the last 6 months, study teenager did not notice the effect their behaviour has on other members of the family	198	16.5
+TC	tc4054	D39e: Over the last 6 months, study teenager has been very demanding of other people's time	198	16.5
+TC	tc4056	D39g: Over the last 6 months, study teenager did not seem to understand social skills, e.g. interrupts conversations constantly	198	16.5
+TC	tc4057	D39h: Over the last 6 months, study teenager did not pick up on body language	198	16.5
+TC	tc4059	D39j: Over the last 6 months, study teenager did not realise that they offend people with their behaviour	198	16.5

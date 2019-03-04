@@ -1,0 +1,556 @@
+"Dataset","Variable","Details","Counts","Type","Release","Label 1","Label 2","Label 3"
+"kd_4b","kd142","CH Holds Breath While Asleep",11120,"numeric","Current","Quest","Child Based",NA
+"tf2_3a","fg4127","F6: Frequency teenager has sleepovers with friends: TF2",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4957","SR6a: SRE Teenager has passed out/fell asleep after drinking, first 5 times dran",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4958","SR6b: SRE Number of drinks it took before passed out/fell asleep after drinking,",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4967","SR6c: SRE Teenager has passed out/fell asleep after drinking, last 3 months drin",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4968","SR6d: SRE Number of drinks it took before passed out/fell asleep after drinking,",6141,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5020","S15: Since 12th birthday teenager walked in sleep: psychosis interview: TF1",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5021","S16: Since 12th birthday teenager walked in sleep- frequency: psychosis intervie",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5022","S17: Rater scale - Sleep walking: psychosis interview: TF1",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5050","H12: Since 12th birthday teenager heard voices- only happen when falling asleep/",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5090","U8: Teenager has had odd sensations - only happen when falling asleep/waking up:",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5264","DV: Interviewer rating of >=1 psychotic experience attributable to sleep, fever,",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5265","DV: Interviewer rating of >=1 psychotic experience attributable to sleep, fever,",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5266","DV: Interviewer rating of >=1 psychotic experience attributable to sleep, fever,",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5408","F6: Frequency teenager has sleepovers with friends: friends: TF1",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7417","SR6a: SRE Teenager has passed out/fell asleep after drinking, first 5 times dran",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7418","SR6b: SRE Number of drinks it took before passed out/fell asleep after drinking,",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7427","SR6c: SRE Teenager has passed out/fell asleep after drinking, last 3 months drin",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7428","SR6d: SRE Number of drinks it took before passed out/fell asleep after drinking,",6832,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5300","Teenager started the Sleep session: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5304","VR7a: Number of sleep questionaires received :TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5305","VR7b: Sleep qes taken home :TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5308","VR7: Tester for Sleep Session - TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5309","Version number sleep data sheet: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5311","A1: Day of the week sleep questionnaire completed: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5400","A2: Time of day sleep questionnaire completed: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5401","A2: Time of day sleep questionnaire completed: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5420","B2: Time YP usually starts trying to go to sleep on school days: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5421","B2: Time YP usually starts trying to go to sleep on school days: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5314","B3: Time YP usually takes to fall asleep on school days (mins): TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5440","B15: Length of time YP sleeps on normal school night: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5441","B15: Length of time YP sleeps on normal school night: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5460","C2: Time YP usually starts trying to go to sleep on weekend days: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5461","C2: Time YP usually starts trying to go to sleep on weekend days: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5324","C3: Time YP usually takes to fall asleep on weekend days (mins): TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5480","C15: Length of time YP sleeps on normal weekend night: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5481","C15: Length of time YP sleeps on normal weekend night: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5334","D2: Problem YP has with sleepiness during daytime activities: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5485","D4: Amount of sleep YP feels that they need: Hour: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5486","D4: Amount of sleep YP feels that they need: Minutes: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5339","D5: YPs assessment of how much sleep that they get: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5340","D6: YPs assessment as to whether they are a good or bad sleeper: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5341","D7: Frequency YP feels that they get enough sleep: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh6445","DIB20f: YP found it hard to sleep, in period when sad/irritable/lost interest: T",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh6550","DIC7k: In general in last 6 months, YPs worrying has interfered with sleep: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh6630","DID3k: YP has had problems sleeping, in last 4 weeks: TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh8533","AL1090: Number full drinks needed to make YP pass out or fall asleep when didn't",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh8553","AL1170: Number full drinks needed to make YP pass out or fall asleep when didn't",5509,"numeric","Current","Clinic","Child",NA
+"f10_5a","fdfs116","Freq child has sleepovers with close friends: F&S: F10",7557,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL022","UE11: YP's unusual experiences only happened when they were falling asleep or wa",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL040","AH14: YP's hearing of voices/noises only happened when they were falling asleep ",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL051","VH8: YP's seeing of visions only happened when they were falling asleep or wakin",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL096","TD13: YP's thought delusions only happened when they were falling asleep or waki",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL164","DV: Interviewer rating of >=1 psychotic experience dependent on sleep, fever: ps",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL165","DV: Interviewer rating of definite psychotic experiences dependent on sleep, fev",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL166","DV: Interviewer rating of psychotic experience dependent on sleep, fever: psycho",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJCI250","Sleep: Sleep symptom score [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJCI251","Sleepch: Change in sleep pattern [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJCI252","Sleepcs: Main cause of sleep problems [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJCI253","Sleep_More: Slept more than usual in past month [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJCI254","Sleep_Dur: Duration of sleep symptoms [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJDR5450","DR2018: YP has ever tried Sedatives or Sleeping Pills [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJDR5500","DR2019: YP has tried Sedatives or Sleeping Pills in the last year [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJDR5550","DR2020: YP has tried Sedatives or Sleeping Pills in the last 3 months [F17]",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJAL300","AL366: Number full drinks needed to make YP pass out or fall asleep when didn't ",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJAL550","AL374: Number full drinks needed to make YP pass out or fall asleep when didn't ",5217,"numeric","Current","Clinic","Child",NA
+"F24_2a","FKDR1060","Drugs6: YP has ever used sedatives/sleeping pills (Valium, Rohypnol, etc.): F@24",4021,"numeric","Current","Clinic","Child",NA
+"F24_2a","FKDR1065","Drugs6a: In past 12 months, YP has used sedatives/sleeping pills: F@24",4021,"numeric","Current","Clinic","Child",NA
+"FA_1b","fa3246","D30: In past week: been so unhappy they have had difficulty sleeping: FoF1",2033,"numeric","Current","Quest","Father",NA
+"FA_1b","fa5400","F55a: In last 2 years, how often taken: Sleeping pills: FoF1",2033,"numeric","Current","Quest","Father",NA
+"sefg_1b","sf565","D16: Teacher goes to sleep all right",9324,"numeric","Current","Quest","Schools",NA
+"sabc_1d","sb565","D16: Teacher goes to sleep all right",6797,"numeric","Current","Quest","Schools",NA
+"kf_8a","kf188","Child stops breathing in sleep",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf230","Child has regular sleep routine",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf231","No of hours sleep child had everyday",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf232","Time child sleeps in evening - Hours",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf233","Time child sleeps in evening - Minutes",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf239","Frequency of sleep during day",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf240","Frequency of sleep during day (recoded)",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf243","Childs sleeping place at night",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf245","People child sleeps with at night",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf247","Childs sleeping position",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf253","Childs sleep pattern evaluation",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf257","Child has difficulty sleeping",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf261","Child gets up after little sleep",10340,"numeric","Current","Quest","Child Based",NA
+"kf_8a","kf262","Anxiety over sleeping problem score",10340,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr130","B1j2: Frequency child wets at night soon after going to sleep",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr204","C3d: Degree to which child worried about sleeping alone in past month relative t",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr204a","DV: Child worried more than peers about sleeping alone in past month",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr206","C3f: Degree to which child worried about sleeping in a strange place in past mon",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr206a","DV: Child worried more than peers about sleeping in a strange place in past mont",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr293","F4i: Degree to which child had problems sleeping in past month",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr293a","DV: Child had problems sleeping in past month",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr376","H6f: Child's general anxieties interfere with child's sleep",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr376a","DV: Child's general anxieties interfere with child's sleep (Y/N)",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr413","J5d: Child found it hard to get to sleep in past month",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr645","N12f: Frequency child falls asleep after returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr645a","DV: Child usually falls asleep after returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr655","N14f: Frequency child is sleepy on returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr655a","DV: Child is usually sleepy on returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2045","B4da: Frequency child grinds teeth when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd200","CH Has Regular Sleeping Routine",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd201","NO of Hours Child Sleeps During Daytime",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd204","Duration of sleep at night (minutes)",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd204b","No. hours asleep at night",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd206","NO of Times CH Sleeps During Day",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd207a","Room CH Put Down to Sleep at Night In",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd208a","CH Shares Bed When Put Down to Sleep",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd210a","Heating on at Night in Room CH Sleeps",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd211a","Open Windows in Room CH Sleeps In",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd212a","CH Sleeps With Duvet",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd212b","Ch sleeps with a duvet (adj)",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd213b","Ch sleeps with an electric blanket (adj)",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd214a","CH Sleeps With Pillow",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd214b","Ch sleeps with a pillow (adj)",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd218","CHs Sleep Pattern COMP Other Children",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd221a","CH REG Difficulty Going to Sleep Past YR",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd221b","Ch reg had diffs sleeping (adj)",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd225a","CH REG Got up After Little sleep Past YR",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd275","FREQ CH Sleeps Before Put to Bed",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd278","FREQ of Cuddling Until CH Asleep",11120,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq075","A6f: How Often CH Sleep Dist By Wheezing In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq146a","A14g1: CH Breathes Through Mouth When Asleep",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq148","A14i: CH Holds Breath While Sleeping",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq250","B1: CH Has A Regular Sleeping Routine",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq251","B2a: No. Hrs CH Sleep During Daytime",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq252","B2b1: Time CH Goes To Sleep In Eve, Sch Day - Hr",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq253","B2b1: Time CH Goes To Sleep In Eve, Sch Day - Min",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq254","B2b2: Time CH Goes To Sleep In Eve, Sat - Hr",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq255","B2b2: Time CH Goes To Sleep In Eve, Sat - Min",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq260","DV: Hours asleep in term-time",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq261","DV: Hours asleep on Weekend",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq265","B3c: No.Times CH Has A Sleep During Normal Day",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq270","B4a1: Room CH Usually Sleeps When Goes To Bed",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq273","B4b1: Bed CH Sleeps When Goes To Bed",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq276","B4c1: How Often CH Sleeps On Back",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq277","B4c2: How Often CH Sleeps On Side",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq278","B4c3: How Often CH Sleeps On Front",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq280","B4d: Mothers Feeling About CH Sleep Pattern",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq291","B5d CH Sleeps With A Duvet In Winter",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq292","B5d CH Sleeps With A Duvet In Summer",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq293","DV: Ch Ever Sleeps With Duvet",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq297","B5f: CH Sleeps With Pillow In Winter",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq298","B5f: CH Sleeps With Pillow In Summer",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq299","DV:CH Ever Sleeps With Pillow",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq302","B6c: CH Had Diff Going To Sleep In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq302a","DV: CH Had Diff Going To Sleep In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq306","B6g: CH Got Up After Few Hrs Sleep In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq306a","DV: CH Got Up After Few Hrs Sleep In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq309","B6j: CH Sleep Walked In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq309a","DV: CH Sleep Walked In Past Year",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq316","DV: Sleep Worries Score",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq317","DV: Total No. Sleep problems",8505,"numeric","Current","Quest","Child Based",NA
+"kp_r1b","kp1155","A9f: Child falls asleep after school",8568,"numeric","Current","Quest","Child Based",NA
+"kp_r1b","kp1195","A13f: Child is sleepy after coming home from school",8568,"numeric","Current","Quest","Child Based",NA
+"kp_r1b","kp5110","E6j2: Frequency child wets bed soon after going to sleep",8568,"numeric","Current","Quest","Child Based",NA
+"kp_r1b","kp6001","F1b1: Cause of battle of wills - going to sleep",8568,"numeric","Current","Quest","Child Based",NA
+"tc_2a","tc6020","F3: Average frequency, study teenager has had disturbed sleep due to wheezing in",5720,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb1085","A6f: Average frequency child's sleep disturbed due to wheezing in past 12 months",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb2270","B1zb: Medicine/pills/drops/ointment used by child for sleeping in past 12 months",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb2273","B1zb: Frequency child used medicine/pills/drops/ointment for sleeping in past 12",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb4023","D3d: Degree to which child worried about sleeping alone in past month relative t",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb4024","D3e: Degree to which child has left bedroom at night to check on/sleep near spec",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb4025","D3f: Degree to which child worried about sleeping in a strange place in past mon",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb5538","G4i: Degree to which child had problems sleeping during last month",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb6555","J6f: Frequency worrying interfere's with child's sleep (e.g. difficulty in falli",7108,"numeric","Current","Quest","Child Based",NA
+"tb_2a","tb7034","K5d: Child had difficulty getting to sleep in past month",7108,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj162","CH Holds Breath For Few SECs When Asleep",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj205","CH has Regular Sleeping Routine",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj206","HRs CH Sleeps During Day",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj207","Time CH Goes to Sleep in Evening",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj210","NO of Times CH Sleeps in Day",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj211","Room CH Sleeps in When MUM Puts to Bed",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj213","Where CH Sleeps When Put To Bed",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj215","How CH Usually Sleeps",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj216","Heating on in Room where CH Sleeps",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj217","Window Open in Room where CH Sleeps",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj218","CH Sleeps with a Duvet",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj220","CH Sleeps with a Pillow",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj221","CHs Sleep Compared to Other Children",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj224","CH Has Problem Going To Sleep Past Year",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj224a","CH Has Problem Going To Sleep Y/N",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj228","CH Gets up After Few HRs Sleep Past Yr",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj228a","CH Gets Up After Few Hours Sleep Y/N",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj229","Worry Over Sleeping Score",10053,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj230","Sleeping Difficulties Score",10053,"numeric","Current","Quest","Child Based",NA
+"kk_2c","kk470","D10f: Child Falls Asleep When Gets Home",9715,"numeric","Current","Quest","Child Based",NA
+"kk_2c","kk480","D14f: Child Sleepy on Return From School",9715,"numeric","Current","Quest","Child Based",NA
+"km_r1b","km4255","D10f: Child falls asleep when returns home",9003,"numeric","Current","Quest","Child Based",NA
+"km_r1b","km4295","D14f: Child sleepy on return from school",9003,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn1208","A13f1: Child breathe through mouth when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn1211","A13h: Child stop breathing or hold breath for several seconds when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2000","B1: Child have a regular sleeping routine",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2010","B2a: Number of hours child sleeps in the daytime",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2011a","B2b: Time in evening child goes to sleep on school day - hour",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2011b","B2b: Time in evening child goes to sleep on school day - minute",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2034","B4b1: Child go to sleep at night alone or with others",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2040","B4c1: Frequency child sleeps on back",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2041","B4c2: Frequency child sleeps on side",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2042","B4c3: Frequency child sleeps on front",8691,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl158","A14h: Child stops breathing/holds breath when sleeping",9521,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2080","B4e4: Child sleep with a duvet : winter",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2081","B4e4: Child sleep with a duvet : summer",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2100","B4e6: Child sleep with a Pillow : winter",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2111","B4e6: Child sleep with a Pillow : summer",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2122","B5c: Child regularly had difficulty going to sleep in past year",8691,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku225","A12f: Child is sleepy when gets home from school",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku341a","B5b: On school days - time child usually goes to sleep - hours",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku341b","B5b: On school days - time child usually goes to sleep - minutes",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku343a","B5d: On weekends - time child usually goes to sleep - hours",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku343b","B5d: On weekends - time child usually goes to sleep - minutes",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku720","G1a: Child has regular sleeping routine",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku722","G2a1: Where child usually sleeps when goes to bed at night",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku724","G2a2: Where child usually sleeps when wakes in morning",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku726","G2b1: Who child sleeps with when goes to bed at night",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku728","G2b2: Who child sleeps with when wakes in morning",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku730","G2c1: Child sleeps on back",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku731","G2c2: Child sleeps on side",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku732","G2c3: Child sleeps on front",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku734","G2d1: Child grinds teeth when asleep",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku740","G2e1: Where child sleeps most of night, heating is on all night - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku741","G2e1: Where child sleeps most of night, heating is on all night - summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku743","G2e2: Where child sleeps most of night, heating is on part of night - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku744","G2e2: Where child sleeps most of night, heating is on part of night - summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku746","G2e3: Where child sleeps most of night, window is open at night - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku747","G2e3: Where child sleeps most of night, window is open at night - summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku749","G2e4: Where sleeps most of night, child sleeps with duvet - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku750","G2e4: Where sleeps most of night, child sleeps with duvet - summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku752","G2e5: Where sleeps most of night, child has electric blanket - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku753","G2e5: Where sleeps most of night, child has electric blanket -summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku755","G2e6: Where sleeps most of night, child sleeps with pillow - winter",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku756","G2e6: Where sleeps most of night, child sleeps with pillow - summer",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku762","G3c: Child had difficulty going to sleep in past year",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku766","G3g: Child got up after only few hours sleep in past year",8221,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku850","I1j2: If child wets at night seems to wet soon after going to sleep",8221,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv1085","A6f: Frequency child's sleep was disturbed due to wheezing in past year",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv2270","B1zb: In past year child has had medicine/pills/drops/ointments for sleeping in ",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv2273","B1zb: Frequency child had medicine/pills/drops/ointments for sleeping in past 12",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv4023","D3d: In past month child has worried about sleeping alone",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv4024","D3e: In past month child has left bed at night to check on or to sleep near spec",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv4025","D3f: In past month child has worried about sleeping in a strange place",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv5538","G4i: In past month child has had problems sleeping",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv6555","J6f: Worries interfere with sleep",7851,"numeric","Current","Quest","Child Based",NA
+"kv_2a","kv7034","K5d: In past month child found sleeping hard",7851,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb142","Sleeping CH holds breath for a time",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb450","CH has REG sleeping routine at PRES",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb451","NO of HRS CH sleeps each AM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb452","NO of MINS CH sleeps each AM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb453","NO of HRS CH sleeps each PM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb454","NO of MINS CH sleeps each PM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb455","NO of HRS CH sleeps each night",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb456","NO of MINS CH sleeps each night",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb461","Time asleep in am (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb462","Time asleep in pm (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb463","Time asleep at night (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb464","Total time asleep (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb465","Total time asleep grouped",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb457","Hour CH goes to sleep in evening",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb458","Min CH goes to sleep in evening",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb483","Where CH sleeps at night",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb484","Where CH sleeps after waking in AM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb492","CH sleeps with duvet at night",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb494","CH sleeps with pillow at night",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb712","CH fussy on waking & going to sleep",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb738","CH sleepy at same time each PM",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb762","CH sleeps & wakes in same position",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb779","CH is bothered by DIFF sleeping place",11478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw1180","A10i: Child breaths through mouth rather than nose when asleep",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw1255","A15f: Frequency, on average, child's sleep was disturbed due to wheezing in the ",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw4061a","D3b: Time child usually goes to sleep on normal school days - hours",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw4061b","D3b: Time child usually goes to sleep on normal school days - minutes",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw4063a","D3d: Time child goes to sleep on weekends - hours",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw4063b","D3d: Time child goes to sleep on weekends - minutes",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw5270","E1zb: Child has taken medicine/pills/drops/ointment for sleeping, past 12 months",7478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw5273","E1zb: Frequency that medicine/pills/drops/ointments were taken for sleeping",7478,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc746","Put to sleep with bottle",11067,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc802","CH understands Are you sleepy",11067,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc934","CH understands or says Asleep",11067,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc978","CH head on hands & shuts eyes as asleep",11067,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka172","Baby sleeps with heating on at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka173","Baby sleeps with open window at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka174","Baby sleeps with duvet at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka175","Baby sleeps with electric blanket at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka176","Baby sleeps with pillow at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka177","Baby sleeps in baby nest at night",12344,"numeric","Current","Quest","Child Based",NA
+"ka_4c","ka186","Baby wears sleepsuit at night",12344,"numeric","Current","Quest","Child Based",NA
+"ks_r1b","ks1265","A10f: Childs sleep disturbed due to wheezing in past year",8331,"numeric","Current","Quest","Child Based",NA
+"ks_r1b","ks1370","A19i: Child breathes through mouth not nose when asleep",8331,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg467","E27: How often mother puts child to sleep with a bottle",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg779","DV: Sleepy",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg779a","H13e1: Child says Sleepy",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg779b","H13e2: Child understands Sleepy",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg856","H24d: Child Says Kitty is Asleep",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg856a","DV: Kitty asleep",10137,"numeric","Current","Quest","Child Based",NA
+"ke_5c","ke474","FREQ CH put to sleep with bottle",10422,"numeric","Current","Quest","Child Based",NA
+"ke_5c","ke599","CH says\understands Sleepy",10422,"numeric","Current","Quest","Child Based",NA
+"ke_5c","ke700","CH sleepy same time each evening",10422,"numeric","Current","Quest","Child Based",NA
+"ke_5c","ke741","CH pleasant when put down to sleep",10422,"numeric","Current","Quest","Child Based",NA
+"ke_5c","ke775","CH same time to sleep after bedtime",10422,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl154","A14f1: Child breathes through mouth when asleep",9521,"numeric","Current","Quest","Child Based",NA
+"b_4e","b343","Go off to sleep OK at PRES",13190,"numeric","Current","Quest","Mother",NA
+"kl_r1b","kl220","B1: Child has a regular sleeping routine",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl221","B2a: Number of hours sleep child has during the day",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl222a","B2b: Time child goes to sleep in evening - Hour",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl222b","B2b: Time child goes to sleep in evening - Minutes",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl227","B3c: Number of times child has a sleep during a normal day",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl230","B4a1: Where child sleeps when they go to bed at night",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl232","B4a2: Where child sleeps when they wake up in the morning",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl235","B4b1: Child sleeps on own or shares a bed or cot when they go to bed",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl237","B4b2: Child sleeps on own or shares a bed or cot when they wake up",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl240","B4c1: Frequency child sleeps on their back",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl241","B4c2: Frequency child sleeps on their side",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl242","B4c3: Frequency child sleeps on their front",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl245","B4d1: Heating is on all night in room where child sleeps in Winter",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl246","B4d1: Heating is on all night in room where child sleeps in Summer",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl248","B4d2: Heating is on part of night in room where child sleeps in Winter",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl249","B4d2: Heating is on part of night in room where child sleeps in Summer",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl251","B4d3: A window is open at night in room where child sleeps in Winter",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl252","B4d3: A window is open at night in room where child sleeps in Summer",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl254","B4d4: Child sleeps with a duvet in Winter",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl255","B4d4: Child sleeps with a duvet in Summer",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl260","B4d6: Child sleeps with a pillow in Winter",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl261","B4d6: Child sleeps with a pillow in Summer",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl263","B5: Parent's assessment of child's sleep pattern relative to peers",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl267","B6c: Child has regularly had difficulty going to sleep in past year",9521,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl271","B6g: Child has regularly got up after a few hours sleep in past year",9521,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1190","A9a: Teenager snores during sleep",7159,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1191","A9b: Teenager perspires/sweats a lot during sleep",7159,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1192","A9c: Teenager fidgets a lot during sleep",7159,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1193","A9d: Teenager talks a lot during sleep",7159,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1194","A9e: Teenager has nightmares a lot during sleep",7159,"numeric","Current","Quest","Child Based",NA
+"ta_2a","ta1221","A12b: Problems with sleep is the reason teenager has been tired/lacking in energ",7159,"numeric","Current","Quest","Child Based",NA
+"n_3a","n6066","G9: Frequency mother has had difficulty sleeping due to unhappiness in the past ",7911,"numeric","Current","Quest","Mother",NA
+"e_4e","e363","Fall asleep all right",11710,"numeric","Current","Quest","Mother",NA
+"e_4e","e386","Sleeping PROBS due to sadness in past WK",11710,"numeric","Current","Quest","Mother",NA
+"e_4e","e504","NO of HRS of sleep at night",11710,"numeric","Current","Quest","Mother",NA
+"e_4e","e505","NO of HRS of sleep in day",11710,"numeric","Current","Quest","Mother",NA
+"e_4e","e508","Feel getting enough sleep",11710,"numeric","Current","Quest","Mother",NA
+"r_r1b","r3009","C1j: Frequency respondent leaks urine while they are asleep",7595,"numeric","Current","Quest","Mother",NA
+"r_r1b","r3553","D4d: Respondent has been unable to sleep well as a result of their accident/inju",7595,"numeric","Current","Quest","Mother",NA
+"r_r1b","r4016","E15: Frequency respondent has been so unhappy they had difficulty sleeping in pa",7595,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2061","B7b: Temperature in room where child sleeps at coldest time of year",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2080","B9: Number of rooms apart from kitchen for living and sleeping",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2170","B16c1: Room where child sleeps painted in past year",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2172","B16c2: Room where child sleeps wallpapered in past year",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2174","B16c3: New carpet in room where child sleeps in past year",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q2176","B16c4: New furniture in room where child sleeps in past year",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q4120","D1m: Mother used medicine in last 12 months for sleeping",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q4123","D1m1: Frequency mother used medicine 1 for sleeping",8075,"numeric","Current","Quest","Mother",NA
+"q_r1b","q4125","D1m2: Frequency mother used medicine 2 for sleeping",8075,"numeric","Current","Quest","Mother",NA
+"l_r1b","l2016","B15: Frequency respondent has been so unhappy that have had trouble sleeping in ",8528,"numeric","Current","Quest","Mother",NA
+"l_r1b","l3040","C3a: Frequency respondent has taken sleeping pills since study child's 5th birth",8528,"numeric","Current","Quest","Mother",NA
+"g_5c","g045","Mum had sleeping pills >CH8MTHs",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g045a","Mum had sleeping pills >CH8MTHs",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g260","Mum goes to sleep alright",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g286","Mum too unhappy to sleep in past week",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g413","No. of  rooms for living or sleeping",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g844","No. Hrs sleep mum has in Avg. night",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g845","No. Hrs sleep mum has on Avg. day",10310,"numeric","Current","Quest","Mother",NA
+"g_5c","g847","Mum feels she gets enough sleep",10310,"numeric","Current","Quest","Mother",NA
+"f_2b","f060","Sleeping pill use since CH born",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f060a","Taken sleeping pill since birth",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f160","Foreshortened sleep in morning",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f165","Going to sleep alright",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f196","Sleep PROBS from unhappiness in past WK",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f861","REG feed & sleep important for baby",11210,"numeric","Current","Quest","Mother",NA
+"f_2b","f882","Getting enough sleep",11210,"numeric","Current","Quest","Mother",NA
+"k_r1b","k1040","A3a: Frequency mother had sleeping pills in past year",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k3015","C16: Frequency mother can go to sleep all right",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k3036","C30: Mother has been so unhappy that she had difficulty sleeping in past week",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k5070","E8: Number of rooms apart from kitchen mother has for living/sleeping",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k6230","F15a: Sleep mother gets on an average night, hours",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k6231","F15b: Sleep mother gets on an average day, hours",8975,"numeric","Current","Quest","Mother",NA
+"k_r1b","k6232","F15c: Mother feels she gets enough sleep",8975,"numeric","Current","Quest","Mother",NA
+"c_8a","c096","MEDTN for sleeping disorder in last 3MTHS",12418,"numeric","Current","Quest","Mother",NA
+"c_8a","c133","FREQ  of sleeping pill use in last 3MTHS",12418,"numeric","Current","Quest","Mother",NA
+"c_8a","c565","Go off to sleep OK at PRES",12418,"numeric","Current","Quest","Mother",NA
+"c_8a","c596","Sleeping PROB due to sadness in past WK",12418,"numeric","Current","Quest","Mother",NA
+"c_8a","c811","REG feed & sleep important for baby",12418,"numeric","Current","Quest","Mother",NA
+"p_r1b","p1050","A3a: Frequency mother has taken sleeping pills in last 2 years",7982,"numeric","Current","Quest","Mother",NA
+"p_r1b","p5019","E20: When mother has to make a decision she 'sleeps on it' before she decides",7982,"numeric","Current","Quest","Mother",NA
+"p_r1b","p5041","E42: When trying to fall asleep mother often notices that her muscles are really",7982,"numeric","Current","Quest","Mother",NA
+"p_r1b","p5065","E66: It is easy for mother to regain lost sleep",7982,"numeric","Current","Quest","Mother",NA
+"h_6d","h035","A3a: Frequency Mum has taken sleeping pills since study child was 18 months old",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h035a","DV: Frequency Mum has taken sleeping pills since study child was 18 months old, ",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h170","D16: Mother goes to sleep all right",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h196","D30: Mother has been so unhappy she has had difficulty sleeping in the past week",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h744","J17a: Mums average night sleep",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h745","J17b: Mums average daytime sleep",9638,"numeric","Current","Quest","Mother",NA
+"h_6d","h746","J17c: Mum feels getting enough sleep",9638,"numeric","Current","Quest","Mother",NA
+"m_2a","m1053","A4d: Result of accident: Unable to sleep well",8326,"numeric","Current","Quest","Mother",NA
+"m_2a","m2070","B8: No. rooms available for living/sleeping",8326,"numeric","Current","Quest","Mother",NA
+"m_2a","m5200","E13a: Amount of sleep mother gets during average night",8326,"numeric","Current","Quest","Mother",NA
+"m_2a","m5201","E13b: Amount of sleep mother gets during average day",8326,"numeric","Current","Quest","Mother",NA
+"m_2a","m5202","E13c: Mother feels she is getting enough sleep",8326,"numeric","Current","Quest","Mother",NA
+"t_1c","t3246","D30: Respondent has been so unhappy that they have had difficulty sleeping in pa",4175,"numeric","Current","Quest","Mother",NA
+"t_1c","t5400","E59a: Frequency respondent taken sleeping pills in last two years",4175,"numeric","Current","Quest","Mother",NA
+"b_4e","b112","Medication for sleeping PROB this PREG",13190,"numeric","Current","Quest","Mother",NA
+"b_4e","b113","Medication for sleeping in 1st 3 months",13190,"numeric","Current","Quest","Mother",NA
+"b_4e","b173","FREQ of sleeping tablet use this PREG",13190,"numeric","Current","Quest","Mother",NA
+"ccs_r1b","ccs5044","I5e: Frequency in the last 12 months YP's sleep has been disturbed because of wh",5126,"numeric","Current","Quest","Child Completed",NA
+"u_1a","U0130","B13a: Frequency respondent leaks urine whilst asleep",4471,"numeric","Current","Quest","Mother",NA
+"s_r1a","s4120","D1m: Mother has taken medication for sleeping in the past 12 months",7051,"numeric","Current","Quest","Mother",NA
+"s_r1a","s4123","D1m1: Frequency mother took medication 1 for sleeping in the past 12 months",7051,"numeric","Current","Quest","Mother",NA
+"s_r1a","s4125","D1m2: Frequency mother took medication 2 for sleeping in the past 12 months",7051,"numeric","Current","Quest","Mother",NA
+"j_5a","j040","MUM took Sleeping Pills >1 YR",9501,"numeric","Current","Quest","Mother",NA
+"j_5a","j040a","MUM Took Sleeping Pills >1 YR  y/n",9501,"numeric","Current","Quest","Mother",NA
+"ph_r1b","ph1040","A3a: Frequency in the past year respondent has taken sleeping pills",4522,"numeric","Current","Quest","Partner",NA
+"ph_r1b","ph3015","C16: Frequency respondent can go to sleep alright",4522,"numeric","Current","Quest","Partner",NA
+"ph_r1b","ph6230","E12a: Number of hours sleep respondent gets during an average night",4522,"numeric","Current","Quest","Partner",NA
+"ph_r1b","ph6231","E12b: Number of hours sleep respondent gets during an average day",4522,"numeric","Current","Quest","Partner",NA
+"ph_r1b","ph6232","E12c: Respondent feels that they get enough sleep",4522,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk1053","A4d: Partner was unable to sleep well as a result of an accident since study chi",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk2070","B8: Number of rooms partner's home has for living and sleeping",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk2170","B16c1: The room the study child sleeps in was painted in the past year",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk2172","B16c2: The room the study child sleeps in was wallpapered in the past year",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk2174","B16c3: The room the study child sleeps in had new carpet in the past year",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk2176","B16c4: The room the study child sleeps in had new furniture in the past year",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk5200","E13a: Number of hours sleep partner has during an average night",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk5201","E13b: Number of hours sleep partner has during an average day",4036,"numeric","Current","Quest","Partner",NA
+"pk_r1b","pk5202","E13c: Partner is getting enough sleep",4036,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd060","Used Sleeping Pills Since Baby Born",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd060a","Taken sleeping pill since birth",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd165","Can Get to Sleep Alright",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd196","Past WK: Unhappy So Had Diff Sleeping",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd700","Hours Sleep During Avg Night",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd701","Hours Sleep During Avg Day",7099,"numeric","Current","Quest","Partner",NA
+"pd_7b","pd702","Feel Getting Enough Sleep",7099,"numeric","Current","Quest","Partner",NA
+"pb_4a","pb225","Go off to asleep OK at PRES",9957,"numeric","Current","Quest","Partner",NA
+"pb_4a","pb256","Sleeping PROB due to sadness in past WK",9957,"numeric","Current","Quest","Partner",NA
+"pb_4a","pb561","REG food & sleep important for baby",9957,"numeric","Current","Quest","Partner",NA
+"pm_r1b","pm1050","A3a: Frequency father has taken sleeping pills in last 2 years",3664,"numeric","Current","Quest","Partner",NA
+"pm_r1b","pm5019","E20: When father has to make a decision he 'sleeps on it' before he decides",3664,"numeric","Current","Quest","Partner",NA
+"pm_r1b","pm5041","E42: When trying to fall asleep Father often notices that his muscles are really",3664,"numeric","Current","Quest","Partner",NA
+"pm_r1b","pm5065","E66: It is easy for father to regain lost sleep",3664,"numeric","Current","Quest","Partner",NA
+"pp_r1b","pp3009","C1j: Frequency respondent leaks urine while they are asleep",3639,"numeric","Current","Quest","Partner",NA
+"pp_r1b","pp3553","D4d: Respondent has been unable to sleep well as a result of their accident/inju",3639,"numeric","Current","Quest","Partner",NA
+"pp_r1b","pp4016","E15: Frequency respondent has been so unhappy they had difficulty sleeping in pa",3639,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc075","Fall asleep alright",8350,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc098","Sleeping difficulties due to sadness",8350,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc353","NO of HRS sleep at night",8350,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc354","NO of HRS sleep in day",8350,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc355","PTNR getting enough sleep",8350,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe060","Taken Sleeping Pills CH > 8 Months",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe060a","Taken Sleeping Pills Y/N",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe255","Able to Sleep Alright",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe286","So Unhappy Have Difficulty Sleeping",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe470","How Much Sleep Average Night",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe471","How Much Sleep Average Day",6153,"numeric","Current","Quest","Partner",NA
+"pe_3c","pe473","Feel Getting Enough Sleep",6153,"numeric","Current","Quest","Partner",NA
+"pn_r1b","pn4120","B1m: Respondent has taken medicines for sleeping in the past 12 months",4161,"numeric","Current","Quest","Partner",NA
+"pn_r1b","pn4123","B1m1: Frequency respondent has taken named medicine 1 for sleeping in the past 1",4161,"numeric","Current","Quest","Partner",NA
+"pn_r1b","pn4125","B1m2: Frequency respondent has taken named medicine 2 for sleeping in the past 1",4161,"numeric","Current","Quest","Partner",NA
+"pj_r1a","pj2016","B15: Respondent has been so unhappy they have had trouble sleeping in the past w",4462,"numeric","Current","Quest","Partner",NA
+"pj_r1a","pj3040","C3a: Respondent has taken sleeping pills since child's 5th birthday",4462,"numeric","Current","Quest","Partner",NA
+"pq_r1a","pq4120","D1m: Partner has used medicine for sleeping in the last 12 months",3297,"numeric","Current","Quest","Partner",NA
+"pq_r1a","pq4123","D1m1: Frequency partner used medicine for sleeping in the last 12 months - 1st m",3297,"numeric","Current","Quest","Partner",NA
+"pq_r1a","pq4125","D1m2: Frequency partner used medicine for sleeping in the last 12 months - 2nd m",3297,"numeric","Current","Quest","Partner",NA
+"pl_r1b","pl6066","G9: Respondent has been so unhappy they have difficulty sleeping",4046,"numeric","Current","Quest","Partner",NA
+"pg_r1b","pg1030","A3a: Frequency partner has taken sleeping pills in the past year",5101,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf1030","A3a: Frequency partner has taken sleeping pills since the study child was 18 mon",5452,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf4015","D16: Partner can go to sleep alright",5452,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf4036","D30: Partner has been so unhappy that has had difficulty sleeping",5452,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf7120","G12a: Number of hours sleep partner gets during an average night",5452,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf7121","G12b: Number of hours sleep partner gets during an average day",5452,"numeric","Current","Quest","Partner",NA
+"pf_r1a","pf7122","G12c: Partner feels they get enough sleep",5452,"numeric","Current","Quest","Partner",NA
+"ccu_2b","CCU2050c","C9a-text: Sleeping pills",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3076","D13d: Over the last three months, number of drinks to pass out or fall asleep wh",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3077","D13di: Over the last three months, number of drinks to pass out or fall asleep w",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3430","D42e: In their life YP has ever used sedatives or sleeping pills (Valium, Rohypn",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3431","D42ei: In the last year YP has tried  sedatives or sleeping pills (Valium, Rohyp",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3432","D42eii: In the last three months YP has tried sedatives or sleeping pills (Valiu",4342,"numeric","Current","Quest","Child Completed",NA
+"ccxf_1a","ccxf1023","A13a: Frequency young woman leaks urine whilst asleep",9587,"numeric","Current","Quest","Child Completed",NA
+"ccxf_1a","ccxf1024","A13b: Degree to which leaking urine whilst asleep bothers young woman",9587,"numeric","Current","Quest","Child Completed",NA
+"cce_r1c","cce100","A1: Number of people (including study child) who sleep in child's bedroom",8574,"numeric","Current","Quest","Child Completed",NA
+"cce_r1c","cce101","A1: Number of people who sleep in child's bedroom if more than 3",8574,"numeric","Current","Quest","Child Completed",NA
+"cce_r1c","cce110","A2: Sort of bed child sleeps in",8574,"numeric","Current","Quest","Child Completed",NA
+"cce_r1c","cce130","A4: Number of other people who usually sleep in child's bed with child",8574,"numeric","Current","Quest","Child Completed",NA
+"cct_1b","cct4003","C14D: Frequency on average respondent's sleep been disturbed due to wheezing",3372,"numeric","Current","Quest","Child Completed",NA
+"cct_1b","cct5140","E21E: Drug ever used in life by respondent: sedatives or sleeping pills",3372,"numeric","Current","Quest","Child Completed",NA
+"cct_1b","cct5141","E21E1: Drug used in last year by respondent: sedatives or sleeping pills",3372,"numeric","Current","Quest","Child Completed",NA
+"cct_1b","cct5142","E21E2: Drug used in last 3 months by respondent: sedatives or sleeping pills",3372,"numeric","Current","Quest","Child Completed",NA
+"YPB_r1b","YPB1100","A11: Frequency sleep been disturbed by wheezing in the past 12 months",4022,"numeric","Current","Quest","Child Completed",NA
+"YPB_r1b","YPB4455","D45f: In their life respondent ever used sedatives or sleeping pills",4022,"numeric","Current","Quest","Child Completed",NA
+"YPB_r1b","YPB4456","D45f1: In last year used sedatives or sleeping pills",4022,"numeric","Current","Quest","Child Completed",NA
+"YPB_r1b","YPB4457","D45f2: In last 3 months used sedatives or sleeping pills",4022,"numeric","Current","Quest","Child Completed",NA
+"ccp_r1c","ccp526","F3g: Frequency child perspired or sweated during sleep in the last 2 weeks",6905,"numeric","Current","Quest","Child Completed",NA
+"ccp_r1c","ccp561","F6b: Frequency child wets soon after they go to sleep",6905,"numeric","Current","Quest","Child Completed",NA
+"YPA_r1a","YPA2410","b42a: Experience when in 'high' state: YP needs less sleep",3459,"numeric","Current","Quest","Child Completed",NA
+"ccs_r1b","ccs1502","B1c: Frequency YP feels sleepy or drowsy",5126,"numeric","Current","Quest","Child Completed",NA
+"ccs_r1b","ccs3536","F4d: Up to the first 5 times YP has alcohol it made them pass out/fall asleep wh",5126,"numeric","Current","Quest","Child Completed",NA
+"ccs_r1b","ccs3537","F4d1: Number of drinks it took to make YP pass out/fall asleep when they didn't ",5126,"numeric","Current","Quest","Child Completed",NA
+"b_4e","b366","Sleeping PROB due to sadness in past WK",13190,"numeric","Current","Quest","Mother",NA
+"ccs_r1b","ccs3537","F4d1: Number of drinks it took to make YP pass out/fall asleep when they didn't ",5126,"numeric","Current","Quest","Child Completed",NA
+"tf2_3a","fg4957","SR6a: SRE Teenager has passed out/fell asleep after drinking, first 5 times dran",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4958","SR6b: SRE Number of drinks it took before passed out/fell asleep after drinking,",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4967","SR6c: SRE Teenager has passed out/fell asleep after drinking, last 3 months drin",6141,"numeric","Current","Clinic","Child",NA
+"tf2_3a","fg4968","SR6d: SRE Number of drinks it took before passed out/fell asleep after drinking,",6141,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5050","H12: Since 12th birthday teenager heard voices- only happen when falling asleep/",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff5090","U8: Teenager has had odd sensations - only happen when falling asleep/waking up:",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7417","SR6a: SRE Teenager has passed out/fell asleep after drinking, first 5 times dran",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7418","SR6b: SRE Number of drinks it took before passed out/fell asleep after drinking,",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7427","SR6c: SRE Teenager has passed out/fell asleep after drinking, last 3 months drin",6832,"numeric","Current","Clinic","Child",NA
+"tf1_3a","ff7428","SR6d: SRE Number of drinks it took before passed out/fell asleep after drinking,",6832,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5314","B3: Time YP usually takes to fall asleep on school days (mins): TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh5324","C3: Time YP usually takes to fall asleep on weekend days (mins): TF3",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh8533","AL1090: Number full drinks needed to make YP pass out or fall asleep when didn't",5509,"numeric","Current","Clinic","Child",NA
+"tf3_4a","fh8553","AL1170: Number full drinks needed to make YP pass out or fall asleep when didn't",5509,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL022","UE11: YP's unusual experiences only happened when they were falling asleep or wa",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL040","AH14: YP's hearing of voices/noises only happened when they were falling asleep ",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL051","VH8: YP's seeing of visions only happened when they were falling asleep or wakin",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJPL096","TD13: YP's thought delusions only happened when they were falling asleep or waki",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJAL300","AL366: Number full drinks needed to make YP pass out or fall asleep when didn't ",5217,"numeric","Current","Clinic","Child",NA
+"tf4_4a","FJAL550","AL374: Number full drinks needed to make YP pass out or fall asleep when didn't ",5217,"numeric","Current","Clinic","Child",NA
+"kr_2a","kr645","N12f: Frequency child falls asleep after returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kr_2a","kr645a","DV: Child usually falls asleep after returning home from school",8259,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd142","CH Holds Breath While Asleep",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd204b","No. hours asleep at night",11120,"numeric","Current","Quest","Child Based",NA
+"kd_4b","kd278","FREQ of Cuddling Until CH Asleep",11120,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq146a","A14g1: CH Breathes Through Mouth When Asleep",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq260","DV: Hours asleep in term-time",8505,"numeric","Current","Quest","Child Based",NA
+"kq_3a","kq261","DV: Hours asleep on Weekend",8505,"numeric","Current","Quest","Child Based",NA
+"kp_r1b","kp1155","A9f: Child falls asleep after school",8568,"numeric","Current","Quest","Child Based",NA
+"kj_6c","kj162","CH Holds Breath For Few SECs When Asleep",10053,"numeric","Current","Quest","Child Based",NA
+"kk_2c","kk470","D10f: Child Falls Asleep When Gets Home",9715,"numeric","Current","Quest","Child Based",NA
+"km_r1b","km4255","D10f: Child falls asleep when returns home",9003,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn1208","A13f1: Child breathe through mouth when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn1211","A13h: Child stop breathing or hold breath for several seconds when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"kn_r1b","kn2045","B4da: Frequency child grinds teeth when asleep",8691,"numeric","Current","Quest","Child Based",NA
+"ku_r2b","ku734","G2d1: Child grinds teeth when asleep",8221,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb461","Time asleep in am (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb462","Time asleep in pm (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb463","Time asleep at night (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb464","Total time asleep (hrs)",11478,"numeric","Current","Quest","Child Based",NA
+"kb_6d","kb465","Total time asleep grouped",11478,"numeric","Current","Quest","Child Based",NA
+"kw_r2b","kw1180","A10i: Child breaths through mouth rather than nose when asleep",7478,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc934","CH understands or says Asleep",11067,"numeric","Current","Quest","Child Based",NA
+"kc_5b","kc978","CH head on hands & shuts eyes as asleep",11067,"numeric","Current","Quest","Child Based",NA
+"ks_r1b","ks1370","A19i: Child breathes through mouth not nose when asleep",8331,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg856","H24d: Child Says Kitty is Asleep",10137,"numeric","Current","Quest","Child Based",NA
+"kg_4b","kg856a","DV: Kitty asleep",10137,"numeric","Current","Quest","Child Based",NA
+"kl_r1b","kl154","A14f1: Child breathes through mouth when asleep",9521,"numeric","Current","Quest","Child Based",NA
+"e_4e","e363","Fall asleep all right",11710,"numeric","Current","Quest","Mother",NA
+"r_r1b","r3009","C1j: Frequency respondent leaks urine while they are asleep",7595,"numeric","Current","Quest","Mother",NA
+"p_r1b","p5041","E42: When trying to fall asleep mother often notices that her muscles are really",7982,"numeric","Current","Quest","Mother",NA
+"u_1a","U0130","B13a: Frequency respondent leaks urine whilst asleep",4471,"numeric","Current","Quest","Mother",NA
+"pb_4a","pb225","Go off to asleep OK at PRES",9957,"numeric","Current","Quest","Partner",NA
+"pm_r1b","pm5041","E42: When trying to fall asleep Father often notices that his muscles are really",3664,"numeric","Current","Quest","Partner",NA
+"pp_r1b","pp3009","C1j: Frequency respondent leaks urine while they are asleep",3639,"numeric","Current","Quest","Partner",NA
+"pc_2b","pc075","Fall asleep alright",8350,"numeric","Current","Quest","Partner",NA
+"ccu_2b","CCU3076","D13d: Over the last three months, number of drinks to pass out or fall asleep wh",4342,"numeric","Current","Quest","Child Completed",NA
+"ccu_2b","CCU3077","D13di: Over the last three months, number of drinks to pass out or fall asleep w",4342,"numeric","Current","Quest","Child Completed",NA
+"ccxf_1a","ccxf1023","A13a: Frequency young woman leaks urine whilst asleep",9587,"numeric","Current","Quest","Child Completed",NA
+"ccxf_1a","ccxf1024","A13b: Degree to which leaking urine whilst asleep bothers young woman",9587,"numeric","Current","Quest","Child Completed",NA
+"ccs_r1b","ccs3536","F4d: Up to the first 5 times YP has alcohol it made them pass out/fall asleep wh",5126,"numeric","Current","Quest","Child Completed",NA
